@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "klee",
+  "display_name": "可莉 / Klee",
+  "version": "1.0.0",
+  "description": "火花骑士可莉，童声爆炸系，天真无邪，炸弹是她的最爱。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_dialog_greetingMorning.wav",
+          "label": "早安！带可莉出去玩吧！"
+        },
+        {
+          "file": "sounds/vo_klee_dialog_greetingNoon.wav",
+          "label": "午饭时间到了！啊…吃什么呢？"
+        },
+        {
+          "file": "sounds/vo_klee_chest_open_01.wav",
+          "label": "可莉又找到新的宝物了！"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_battle_skill1_01.wav",
+          "label": "蹦蹦炸弹！"
+        },
+        {
+          "file": "sounds/vo_klee_battle_skill3_01.wav",
+          "label": "轰轰火花！"
+        },
+        {
+          "file": "sounds/vo_klee_life_less30_teammate_02.wav",
+          "label": "你不要紧吧？"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_chest_open_02.wav",
+          "label": "亮闪闪的，好开心！"
+        },
+        {
+          "file": "sounds/vo_klee_battle_skill3_02.wav",
+          "label": "火力全开！"
+        },
+        {
+          "file": "sounds/vo_klee_battle_skill3_03.wav",
+          "label": "全——都可以炸完！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_battle_hit_H_02.wav",
+          "label": "好疼啊！"
+        },
+        {
+          "file": "sounds/vo_klee_life_less30_01.wav",
+          "label": "哇…怎么会这样…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_dialog_idle.wav",
+          "label": "呜…这次居然炸歪了大风车的叶片…真对不起！"
+        },
+        {
+          "file": "sounds/vo_klee_life_less30_02.wav",
+          "label": "琴团长…它欺负我…"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_life_die_02.wav",
+          "label": "可莉…想回家了…"
+        },
+        {
+          "file": "sounds/vo_klee_life_less30_03.wav",
+          "label": "玩累了，有点晕…"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_life_less30_teammate_01.wav",
+          "label": "火花骑士，爆破支援！"
+        },
+        {
+          "file": "sounds/vo_klee_dialog_close.mp3",
+          "label": "能不能帮我隐瞒一下…"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_klee_dialog_greetingNight2.mp3",
+          "label": "天黑以后…拜托你回去的时候，把我也送回家好不好…"
+        },
+        {
+          "file": "sounds/vo_klee_dialog_greetingNight.mp3",
+          "label": "晚上好！可莉不是小孩子了"
+        }
+      ]
+    }
+  }
+}

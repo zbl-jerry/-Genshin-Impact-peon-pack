@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "sigewinne",
+  "display_name": "希格雯 / Sigewinne",
+  "version": "1.0.0",
+  "description": "美露莘护士长希格雯，温柔治愈，专业且充满关怀。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_draw_appear_01.mp3",
+          "label": "我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？"
+        },
+        {
+          "file": "sounds/vo_sigewinne_dialog_greetingMorning.wav",
+          "label": "早上好，睡得好吗？用温水洗脸对皮肤刺激最小"
+        },
+        {
+          "file": "sounds/vo_sigewinne_dialog_greetingNoon.wav",
+          "label": "午饭时间快到了，我得暂时离开一下下"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_battle_skill3_01.wav",
+          "label": "谨誓！精研医理"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_skill3_03.wav",
+          "label": "医嘱：即刻注射"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_skill1_02.wav",
+          "label": "我看看"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_chest_open_03.wav",
+          "label": "可爱的人值得最好的宝物"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_skill3_02.wav",
+          "label": "别紧张哦，放松"
+        },
+        {
+          "file": "sounds/vo_sigewinne_life_less30_teammate_02.wav",
+          "label": "救援到了！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_battle_hit_H_01.wav",
+          "label": "生气了！"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_hit_H_02.wav",
+          "label": "你不可爱！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_character_idle_02.wav",
+          "label": "哪里磕着碰着了吗？不舒服要随时叫我哟"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_skill1_01.wav",
+          "label": "别动哟"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_life_less30_01.wav",
+          "label": "我能治疗自己！"
+        },
+        {
+          "file": "sounds/vo_sigewinne_battle_skill1_03.wav",
+          "label": "冷静"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_life_less30_teammate_01.wav",
+          "label": "看来得强制治疗了…"
+        },
+        {
+          "file": "sounds/vo_sigewinne_life_less30_03.wav",
+          "label": "没关系的…"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sigewinne_dialog_greetingNight.mp3",
+          "label": "几点啦？我喜欢黑漆漆的地方"
+        },
+        {
+          "file": "sounds/vo_sigewinne_dialog_greetingNight2.mp3",
+          "label": "感觉入睡很困难？来聊聊心事吧"
+        }
+      ]
+    }
+  }
+}

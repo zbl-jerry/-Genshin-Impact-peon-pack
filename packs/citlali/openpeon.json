@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "citlali",
+  "display_name": "茜特菈莉 / Citlali",
+  "version": "1.0.0",
+  "description": "纳塔黑曜石奶奶茜特菈莉，烟谜主，反差萌，神秘又可爱。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_draw_appear_01.mp3",
+          "label": "「烟谜主」的茜特菈莉，已经透过迷烟看到了未来的道路。请让我也同行"
+        },
+        {
+          "file": "sounds/vo_citlali_dialog_greetingMorning.mp3",
+          "label": "啊——早上好啊。说吧，什么事？"
+        },
+        {
+          "file": "sounds/vo_citlali_dialog_greetingNoon.mp3",
+          "label": "中午好啊。起床到中午是不会喝酒的…"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_battle_skill1_02.wav",
+          "label": "履行盟约吧，星魔们"
+        },
+        {
+          "file": "sounds/vo_citlali_battle_skill3_01.wav",
+          "label": "灭口交给你们俩了！"
+        },
+        {
+          "file": "sounds/vo_citlali_battle_skill1_01.wav",
+          "label": "出来干活！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_chest_open_01.wav",
+          "label": "挺好的，收下吧"
+        },
+        {
+          "file": "sounds/vo_citlali_battle_skill3_02.wav",
+          "label": "茜特菈琳、伊兹帕帕，给我上！"
+        },
+        {
+          "file": "sounds/vo_citlali_chest_open_02.wav",
+          "label": "先收下，答谢诸星的祈祷我替你做"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_battle_hit_H_01.wav",
+          "label": "好胆子！"
+        },
+        {
+          "file": "sounds/vo_citlali_battle_hit_H_02.wav",
+          "label": "疼疼！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_dialog_annoyed_01.wav",
+          "label": "看起来什么都不在乎只是我的保护色，其实我什么都很在乎"
+        },
+        {
+          "file": "sounds/vo_citlali_life_less30_02.wav",
+          "label": "唉，想回家啊"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_life_less30_03.wav",
+          "label": "不能…在你面前…"
+        },
+        {
+          "file": "sounds/vo_citlali_life_less30_01.wav",
+          "label": "不该出门的…"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_life_less30_teammate_02.wav",
+          "label": "给奶奶我小心点"
+        },
+        {
+          "file": "sounds/vo_citlali_life_less30_teammate_01.wav",
+          "label": "…不许死！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_citlali_dialog_greetingNight2.wav",
+          "label": "晚安。今晚恶曜不显，地灵微眠。是个好夜晚"
+        },
+        {
+          "file": "sounds/vo_citlali_dialog_close1.mp3",
+          "label": "在你面前的局促才是真的我。这个真心话我只说一次"
+        }
+      ]
+    }
+  }
+}

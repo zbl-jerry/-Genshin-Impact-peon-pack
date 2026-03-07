@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "iansan",
+  "display_name": "伊安珊 / Iansan",
+  "version": "1.0.0",
+  "description": "纳塔健身教练伊安珊，活力少女，力量训练狂热者，热情开朗。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_draw_appear_01.wav",
+          "label": "叫我伊安珊就好，我是那里最有名的健身教练。对健身感兴趣吗？"
+        },
+        {
+          "file": "sounds/vo_iansan_dialog_greetingMorning.mp3",
+          "label": "嗨，早上好啊。要不要一起晨跑？"
+        },
+        {
+          "file": "sounds/vo_iansan_dialog_greetingNoon.mp3",
+          "label": "中午好啊，有好好吃午餐吧？"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_battle_skill3_01.wav",
+          "label": "动起来！"
+        },
+        {
+          "file": "sounds/vo_iansan_battle_skill1_01.wav",
+          "label": "风驰电掣！"
+        },
+        {
+          "file": "sounds/vo_iansan_battle_skill1_02.wav",
+          "label": "更快，更强！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_chest_open_01.wav",
+          "label": "天道酬勤"
+        },
+        {
+          "file": "sounds/vo_iansan_battle_skill3_02.wav",
+          "label": "计时开始！"
+        },
+        {
+          "file": "sounds/vo_iansan_battle_skill3_03.wav",
+          "label": "听我的口号！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_battle_hit_H_02.wav",
+          "label": "这还像回事…"
+        },
+        {
+          "file": "sounds/vo_iansan_life_die_02.wav",
+          "label": "这下练出事了…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_character_idle_01.wav",
+          "label": "今天的指标还不够，再做一组吧"
+        },
+        {
+          "file": "sounds/vo_iansan_life_less30_02.wav",
+          "label": "快到极限了吗？"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_life_less30_01.wav",
+          "label": "还行，再咬咬牙！"
+        },
+        {
+          "file": "sounds/vo_iansan_life_less30_03.wav",
+          "label": "得留意下肌肉的承受能力了…"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_life_less30_teammate_01.wav",
+          "label": "悠着点！"
+        },
+        {
+          "file": "sounds/vo_iansan_life_less30_teammate_02.wav",
+          "label": "小心肌肉拉伤！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_iansan_dialog_greetingNight2.wav",
+          "label": "该休息咯，熬夜可是健身的大忌"
+        },
+        {
+          "file": "sounds/vo_iansan_dialog_greetingNight.mp3",
+          "label": "刚入夜的这段时间很适合到户外做一些运动。要不要试试？"
+        }
+      ]
+    }
+  }
+}

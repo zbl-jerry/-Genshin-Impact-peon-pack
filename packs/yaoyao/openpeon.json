@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "yaoyao",
+  "display_name": "瑶瑶 / Yaoyao",
+  "version": "1.0.0",
+  "description": "仙家弟子瑶瑶，乖巧懂事，师从歌尘浪市真君，月桂是她的好伙伴。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_dialog_greetingMorning.mp3",
+          "label": "该起床啦，我已经准备好早饭了！"
+        },
+        {
+          "file": "sounds/vo_yaoyao_draw_appear_01.mp3",
+          "label": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君"
+        },
+        {
+          "file": "sounds/vo_yaoyao_dialog_greetingNoon.wav",
+          "label": "吃完午饭后，不要立刻躺下午睡哦"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_battle_skill1_01.wav",
+          "label": "月桂！该上咯"
+        },
+        {
+          "file": "sounds/vo_yaoyao_battle_skill3_01.wav",
+          "label": "预备…跑！"
+        },
+        {
+          "file": "sounds/vo_yaoyao_character_idle_01.wav",
+          "label": "「明日复明日」总之，快快行动起来吧"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_chest_open_03.wav",
+          "label": "哇！这些够用好几天了吧"
+        },
+        {
+          "file": "sounds/vo_yaoyao_battle_skill3_02.wav",
+          "label": "痛痛飞"
+        },
+        {
+          "file": "sounds/vo_yaoyao_chest_open_01.wav",
+          "label": "都收好，不要落下哦！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_battle_hit_H_02.wav",
+          "label": "好痛好痛…"
+        },
+        {
+          "file": "sounds/vo_yaoyao_life_less30_01.wav",
+          "label": "不行不行…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_character_idle_02.wav",
+          "label": "那边好像有什么动静，偷偷看一眼应该没事吧！"
+        },
+        {
+          "file": "sounds/vo_yaoyao_battle_skill1_02.wav",
+          "label": "不要乱动哦！"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_life_less30_03.wav",
+          "label": "没事，我可以的…"
+        },
+        {
+          "file": "sounds/vo_yaoyao_life_less30_02.wav",
+          "label": "我要撑下去…"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_life_less30_teammate_02.wav",
+          "label": "人命关天，不要勉强！"
+        },
+        {
+          "file": "sounds/vo_yaoyao_life_less30_teammate_01.wav",
+          "label": "让瑶瑶保护你！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_yaoyao_dialog_greetingNight.wav",
+          "label": "晚上还要出门吗？天色已晚，小心为上哦~"
+        },
+        {
+          "file": "sounds/vo_yaoyao_dialog_greetingNight2.mp3",
+          "label": "睡前故事…呼呼…"
+        }
+      ]
+    }
+  }
+}

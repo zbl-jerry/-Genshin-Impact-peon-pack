@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "dori",
+  "display_name": "多莉 / Dori",
+  "version": "1.0.0",
+  "description": "奸商萝莉多莉，摩拉至上，万能商店应有尽有，神灯精灵是她的助手。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_dialog_greetingMorning.wav",
+          "label": "昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天"
+        },
+        {
+          "file": "sounds/vo_dori_character_idle_01.wav",
+          "label": "我爱摩拉，摩拉爱我，啦啦啦"
+        },
+        {
+          "file": "sounds/vo_dori_dialog_idle.mp3",
+          "label": "万能的多莉商店，应有尽有，童叟无欺"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_battle_skill1_02.wav",
+          "label": "看我的！"
+        },
+        {
+          "file": "sounds/vo_dori_chest_open_02.wav",
+          "label": "先让我看看"
+        },
+        {
+          "file": "sounds/vo_dori_battle_skill3_01.wav",
+          "label": "魔灯显灵！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_chest_open_01.wav",
+          "label": "哇，分我一半！"
+        },
+        {
+          "file": "sounds/vo_dori_battle_skill3_02.wav",
+          "label": "大显身手时间！"
+        },
+        {
+          "file": "sounds/vo_dori_battle_skill3_03.wav",
+          "label": "一手交钱，一手交货"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_battle_hit_H_01.wav",
+          "label": "欺人太甚！"
+        },
+        {
+          "file": "sounds/vo_dori_battle_hit_H_02.wav",
+          "label": "列进黑名单！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_dialog_annoyed.mp3",
+          "label": "拿着才三成利的生意就来打扰我…没有百分百的利润我连听完的兴趣都没有"
+        },
+        {
+          "file": "sounds/vo_dori_life_less30_02.wav",
+          "label": "啊救命啊，抢劫啦！"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_life_less30_01.wav",
+          "label": "休想抢走我一分摩拉！"
+        },
+        {
+          "file": "sounds/vo_dori_life_less30_03.wav",
+          "label": "一定要保护好摩拉"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_life_less30_teammate_02.wav",
+          "label": "命和摩拉一样重要"
+        },
+        {
+          "file": "sounds/vo_dori_life_less30_teammate_01.wav",
+          "label": "救命之恩，记得给钱！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_dori_dialog_greetingNight.wav",
+          "label": "在夜色中赶路很有挑战性，不过这可难不倒常年在外行商的我！"
+        },
+        {
+          "file": "sounds/vo_dori_dialog_greetingNight2.mp3",
+          "label": "你要睡觉了吗？嘿嘿，让你试试我的摩拉歌谣催眠法吧！"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "mika",
+  "display_name": "米卡 / Mika",
+  "version": "1.0.0",
+  "description": "西风骑士团前进测绘员米卡，害羞正太，认真负责，热爱队友。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_draw_appear_01.mp3",
+          "label": "西风骑士团游击小队所属，前进测绘员米卡，向你报到！"
+        },
+        {
+          "file": "sounds/vo_mika_dialog_greetingMorning.wav",
+          "label": "早啊，我准备了远征队常吃的早饭，说说今天的行动计划吧？"
+        },
+        {
+          "file": "sounds/vo_mika_dialog_greetingNoon.wav",
+          "label": "游击小队最爱的三号野战午餐很快就准备好"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_battle_skill3_02.wav",
+          "label": "我负责医疗！"
+        },
+        {
+          "file": "sounds/vo_mika_battle_skill1_04.wav",
+          "label": "精确射击！"
+        },
+        {
+          "file": "sounds/vo_mika_battle_skill1_06.wav",
+          "label": "肃清威胁！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_chest_open_01.wav",
+          "label": "是新的收获！"
+        },
+        {
+          "file": "sounds/vo_mika_chest_open_03.wav",
+          "label": "找到了宝藏，恭喜大家！"
+        },
+        {
+          "file": "sounds/vo_mika_battle_skill3_03.wav",
+          "label": "打开突破口！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_life_die_03.wav",
+          "label": "完了…我搞砸了…"
+        },
+        {
+          "file": "sounds/vo_mika_battle_hit_H_02.wav",
+          "label": "不能慌张…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_character_idle_01.wav",
+          "label": "赶快调整好状态，不知道下个任务什么时候会来"
+        },
+        {
+          "file": "sounds/vo_mika_life_less30_02.wav",
+          "label": "要改变战术吗？"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_life_less30_01.wav",
+          "label": "有点麻烦…"
+        },
+        {
+          "file": "sounds/vo_mika_life_less30_03.wav",
+          "label": "对手…很强啊"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_life_less30_teammate_01.wav",
+          "label": "请后撤，我来顶住！"
+        },
+        {
+          "file": "sounds/vo_mika_battle_skill3_01.wav",
+          "label": "大家，请振作！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mika_dialog_greetingNight.mp3",
+          "label": "如果有需要维护的装备，也请交给我吧"
+        },
+        {
+          "file": "sounds/vo_mika_dialog_greetingNight2.mp3",
+          "label": "时间还早，我要整理今天的勘测记录。请你先休息吧"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "cesp_version": "1.0",
+  "name": "nahida",
+  "display_name": "纳西妲 / Nahida",
+  "version": "1.0.0",
+  "description": "草神纳西妲，须弥的智慧之神，萝莉体型，充满好奇心与知识渴望。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_dialog_greetingMorning.wav",
+          "label": "早上好，我们赶快出发吧！"
+        },
+        {
+          "file": "sounds/vo_nahida_draw_appear_01.mp3",
+          "label": "初次见面，我叫纳西妲"
+        },
+        {
+          "file": "sounds/vo_nahida_dialog_greetingNoon.wav",
+          "label": "午休时间到，我想喝树莓薄荷饮"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_battle_skill1_01.wav",
+          "label": "记住你了"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill1_02.wav",
+          "label": "蔓延吧"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill3_01.wav",
+          "label": "来我家做客吧~"
+        },
+        {
+          "file": "sounds/vo_nahida_character_idle_01.wav",
+          "label": "不知道干什么的话，要不要我带你去转转呀"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_chest_open_01.wav",
+          "label": "好奇心值得嘉奖哦"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill3_02.wav",
+          "label": "知识，与你分享"
+        },
+        {
+          "file": "sounds/vo_nahida_chest_open_03.wav",
+          "label": "有你想要的吗"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_battle_hit_H_02.wav",
+          "label": "被打晕了…"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_hit_H_01.wav",
+          "label": "好痛啊"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_character_idle_02.wav",
+          "label": "又有心事吗？我来陪你一起想吧"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill1_03.wav",
+          "label": "等下有点痛哦"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_dialog_annoyed.mp3",
+          "label": "有很多人是揣着明白装糊涂…"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill1_06.wav",
+          "label": "全都看见咯"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_character_idle_03.wav",
+          "label": "果然要亲眼去看，才能感受到世界的美"
+        },
+        {
+          "file": "sounds/vo_nahida_battle_skill1_05.wav",
+          "label": "手牵手~"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_nahida_dialog_greetingNight.wav",
+          "label": "太阳落山啦，把舞台让给夜行的大家族了"
+        },
+        {
+          "file": "sounds/vo_nahida_dialog_greetingNight2.wav",
+          "label": "快去睡吧，我已经为你准备好甜甜的梦啦"
+        }
+      ]
+    }
+  }
+}

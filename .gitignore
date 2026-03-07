@@ -1,0 +1,13 @@
+# Internal development files
+task.md
+openpeon-guide.md
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Build source (local only, not committed)
+# ~/Downloads/yuanshen-chinese/ is outside the repo anyway

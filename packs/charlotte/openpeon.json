@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "charlotte",
+  "display_name": "夏洛蒂 / Charlotte",
+  "version": "1.0.0",
+  "description": "蒸汽鸟报记者夏洛蒂，热情活泼，追求真实至上的新闻精神。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_draw_appear_01.mp3",
+          "label": "我是《蒸汽鸟报》记者夏洛蒂，你愿意接受我的专项访谈吗？"
+        },
+        {
+          "file": "sounds/vo_charlotte_dialog_greetingMorning.wav",
+          "label": "早上好，今天的报纸看了吗？没有？那我念给你听"
+        },
+        {
+          "file": "sounds/vo_charlotte_dialog_greetingNoon.wav",
+          "label": "是午饭时间了呀，我知道一家餐厅很不错，跟我来吧"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_battle_skill3_01.wav",
+          "label": "真实至上！"
+        },
+        {
+          "file": "sounds/vo_charlotte_battle_skill1_01.wav",
+          "label": "看镜头！"
+        },
+        {
+          "file": "sounds/vo_charlotte_battle_skill1_02.wav",
+          "label": "笑一个"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_battle_skill3_02.wav",
+          "label": "爆炸新闻！"
+        },
+        {
+          "file": "sounds/vo_charlotte_battle_skill3_03.wav",
+          "label": "夏洛蒂，为您报道！"
+        },
+        {
+          "file": "sounds/vo_charlotte_chest_open_01.wav",
+          "label": "喔！看上去不错"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_battle_hit_H_02.wav",
+          "label": "我的镜头！"
+        },
+        {
+          "file": "sounds/vo_charlotte_life_less30_02.wav",
+          "label": "还有新闻要报道！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_character_idle_01.wav",
+          "label": "只要眼睛够尖，脑子够快，每天都能找到好新闻"
+        },
+        {
+          "file": "sounds/vo_charlotte_battle_skill1_03.wav",
+          "label": "摆个好姿势！"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_life_less30_teammate_02.wav",
+          "label": "喂！我可不想写讣告！"
+        },
+        {
+          "file": "sounds/vo_charlotte_battle_hit_L_02.wav",
+          "label": "真不礼貌"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_life_less30_teammate_01.wav",
+          "label": "小心点！"
+        },
+        {
+          "file": "sounds/vo_charlotte_life_less30_01.wav",
+          "label": "我、我还能记录…"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_charlotte_dialog_greetingNight.wav",
+          "label": "晚上最适合谈心了，你有什么故事愿意和我分享吗？"
+        },
+        {
+          "file": "sounds/vo_charlotte_dialog_greetingNight2.wav",
+          "label": "晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦"
+        }
+      ]
+    }
+  }
+}

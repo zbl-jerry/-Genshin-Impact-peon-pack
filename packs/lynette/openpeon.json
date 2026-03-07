@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "lynette",
+  "display_name": "琳妮特 / Lynette",
+  "version": "1.0.0",
+  "description": "枫丹魔术师助手琳妮特，猫耳女仆，话少冷淡，是林尼的忠实搭档。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_draw_appear_01.mp3",
+          "label": "初次见面，我是林尼的魔术助手，工作事宜请咨询林尼"
+        },
+        {
+          "file": "sounds/vo_lynette_dialog_greetingMorning.wav",
+          "label": "早安…充能尚未完成，即将再次休眠"
+        },
+        {
+          "file": "sounds/vo_lynette_character_idle_01.wav",
+          "label": "茶泡好了，接下来可以休息一会儿了"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_battle_skill3_02.wav",
+          "label": "来点灯光"
+        },
+        {
+          "file": "sounds/vo_lynette_battle_skill3_03.wav",
+          "label": "请看这边"
+        },
+        {
+          "file": "sounds/vo_lynette_battle_skill1_02.wav",
+          "label": "在这里"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_chest_open_02.wav",
+          "label": "不出所料"
+        },
+        {
+          "file": "sounds/vo_lynette_chest_open_03.wav",
+          "label": "轻松到手"
+        },
+        {
+          "file": "sounds/vo_lynette_battle_skill3_01.wav",
+          "label": "魔术开场"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_battle_hit_H_01.wav",
+          "label": "啊，没躲开"
+        },
+        {
+          "file": "sounds/vo_lynette_life_die_02.wav",
+          "label": "魔术失误了…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_character_idle_03.wav",
+          "label": "进入待机模式…希望不要有人来打扰我"
+        },
+        {
+          "file": "sounds/vo_lynette_battle_skill1_03.wav",
+          "label": "惊喜"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_life_less30_03.wav",
+          "label": "启动应敌模式…"
+        },
+        {
+          "file": "sounds/vo_lynette_life_less30_01.wav",
+          "label": "保持冷静"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_life_less30_teammate_01.wav",
+          "label": "快退后"
+        },
+        {
+          "file": "sounds/vo_lynette_life_less30_teammate_02.wav",
+          "label": "我来吸引火力"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lynette_dialog_greetingNight.mp3",
+          "label": "晚上的演出会很精彩，要给你留票吗？"
+        },
+        {
+          "file": "sounds/vo_lynette_dialog_greetingNight2.wav",
+          "label": "快睡吧，我还要处理白天没做完的事情…"
+        }
+      ]
+    }
+  }
+}

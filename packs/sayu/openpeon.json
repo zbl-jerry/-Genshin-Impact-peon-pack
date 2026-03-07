@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "sayu",
+  "display_name": "早柚 / Sayu",
+  "version": "1.0.0",
+  "description": "风系忍者早柚，嗜睡属性，随时随地都想睡觉，懒散的终末番忍者。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_dialog_greetingMorning.mp3",
+          "label": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…"
+        },
+        {
+          "file": "sounds/vo_sayu_dialog_greetingNoon.wav",
+          "label": "好困，午睡时间还不到吗？"
+        },
+        {
+          "file": "sounds/vo_sayu_character_idle_01.mp3",
+          "label": "呼啊…呼噜呼噜——"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_battle_skill3_02.wav",
+          "label": "出来吧！"
+        },
+        {
+          "file": "sounds/vo_sayu_battle_skill1_04.wav",
+          "label": "极意遁走"
+        },
+        {
+          "file": "sounds/vo_sayu_battle_skill3_01.wav",
+          "label": "分身之术"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_chest_open_02.wav",
+          "label": "大丰收！可以睡觉了吗？"
+        },
+        {
+          "file": "sounds/vo_sayu_battle_skill1_05.wav",
+          "label": "抓不住我…呜"
+        },
+        {
+          "file": "sounds/vo_sayu_chest_open_01.wav",
+          "label": "这个箱子…好像可以睡进去"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_battle_hit_H_02.wav",
+          "label": "呜，要晕倒了"
+        },
+        {
+          "file": "sounds/vo_sayu_life_die_03.wav",
+          "label": "不该偷懒的…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_character_idle_02.wav",
+          "label": "工作还不如睡觉"
+        },
+        {
+          "file": "sounds/vo_sayu_life_less30_02.wav",
+          "label": "头晕乎乎的"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_life_less30_03.wav",
+          "label": "呼，好累"
+        },
+        {
+          "file": "sounds/vo_sayu_dialog_idle.mp3",
+          "label": "一直拖着不做，就会有更合适的人去做"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_life_less30_teammate_02.wav",
+          "label": "先退下休息"
+        },
+        {
+          "file": "sounds/vo_sayu_life_less30_teammate_01.wav",
+          "label": "我来掩护"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_sayu_dialog_greetingNight.wav",
+          "label": "确认完毕，方圆十里内没有巫女姐姐。今晚可以睡个好觉啦~"
+        },
+        {
+          "file": "sounds/vo_sayu_dialog_greetingNight2.wav",
+          "label": "终于…可以睡觉了…晚…晚安…"
+        }
+      ]
+    }
+  }
+}

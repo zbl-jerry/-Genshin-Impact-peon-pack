@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "kachina",
+  "display_name": "卡齐娜 / Kachina",
+  "version": "1.0.0",
+  "description": "纳塔回声之子卡齐娜，鼠兔设定，喜欢亮晶晶的石头，想要变强。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_draw_appear_01.mp3",
+          "label": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强"
+        },
+        {
+          "file": "sounds/vo_kachina_dialog_greetingMorning.wav",
+          "label": "早呀，我已经整理好背包啦，我们随时可以出发"
+        },
+        {
+          "file": "sounds/vo_kachina_chest_open_01.wav",
+          "label": "哇哇，有亮晶晶的石头！"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_battle_skill1_01.wav",
+          "label": "旋转！"
+        },
+        {
+          "file": "sounds/vo_kachina_battle_skill1_05.wav",
+          "label": "冲地波！"
+        },
+        {
+          "file": "sounds/vo_kachina_life_less30_teammate_02.wav",
+          "label": "我在！交给我吧！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_battle_skill3_01.wav",
+          "label": "清退！"
+        },
+        {
+          "file": "sounds/vo_kachina_life_less30_03.wav",
+          "label": "我、我一定可以的！"
+        },
+        {
+          "file": "sounds/vo_kachina_battle_skill3_03.wav",
+          "label": "切勿靠近"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_life_die_03.wav",
+          "label": "呜…又搞砸了吗…"
+        },
+        {
+          "file": "sounds/vo_kachina_battle_hit_H_02.wav",
+          "label": "唔，不要紧"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_character_idle_02.mp3",
+          "label": "我可以、我不行、我可以…唔唔，没事的，我可以的！"
+        },
+        {
+          "file": "sounds/vo_kachina_character_idle_01.wav",
+          "label": "刚刚发现有块砖没有堆整齐。怎么办？心里有只小龙在不停地挠啊挠"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_life_less30_01.wav",
+          "label": "没事，小伤罢了"
+        },
+        {
+          "file": "sounds/vo_kachina_life_less30_02.wav",
+          "label": "我要…振作起来"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_life_less30_teammate_01.wav",
+          "label": "不要忘了还有我呀！"
+        },
+        {
+          "file": "sounds/vo_kachina_life_die_01.wav",
+          "label": "对不起，是我逞强了"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_kachina_dialog_greetingNight2.mp3",
+          "label": "今天怎么又把事情给搞砸了，呜呜呜…晚安，谢谢你安慰我…"
+        },
+        {
+          "file": "sounds/vo_kachina_friendship_05.mp3",
+          "label": "这个世界上一定有我才能做到的事。我会…继续努力"
+        }
+      ]
+    }
+  }
+}

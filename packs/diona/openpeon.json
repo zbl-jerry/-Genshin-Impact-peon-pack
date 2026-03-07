@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "diona",
+  "display_name": "迪奥娜 / Diona",
+  "version": "1.0.0",
+  "description": "猫耳调酒师迪奥娜，傲娇萝莉，致力于调出难喝的酒来打击酒业。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_dialog_greetingMorning.wav",
+          "label": "早，我要开始摧毁蒙德酒业啦"
+        },
+        {
+          "file": "sounds/vo_diona_dialog_greetingNoon.wav",
+          "label": "最多…最多只能给你尝一口"
+        },
+        {
+          "file": "sounds/vo_diona_chest_open_02.wav",
+          "label": "亮晶晶的…想要…扑过去！"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_battle_skill1_03.wav",
+          "label": "目标确认"
+        },
+        {
+          "file": "sounds/vo_diona_battle_skill1_04.wav",
+          "label": "攻守兼备"
+        },
+        {
+          "file": "sounds/vo_diona_battle_skill3_03.wav",
+          "label": "反省吧，酒鬼！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_battle_skill3_01.wav",
+          "label": "迪奥娜特调！"
+        },
+        {
+          "file": "sounds/vo_diona_chest_open_01.wav",
+          "label": "让酒变难喝的材料啊，出现吧！"
+        },
+        {
+          "file": "sounds/vo_diona_battle_skill1_05.wav",
+          "label": "抓到你了！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_life_less30_03.wav",
+          "label": "胜负还没分呢！"
+        },
+        {
+          "file": "sounds/vo_diona_life_less30_02.wav",
+          "label": "喵…喵…！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_dialog_idle.mp3",
+          "label": "耳朵和尾巴才不是什么装饰，是血统的象征！"
+        },
+        {
+          "file": "sounds/vo_diona_dialog_annoyed.mp3",
+          "label": "到底怎样才能调出难喝的酒呢…呜…我不会认输的…"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_life_less30_01.wav",
+          "label": "我不会认输…！"
+        },
+        {
+          "file": "sounds/vo_diona_life_less30_teammate_02.wav",
+          "label": "去休息去休息！"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_battle_skill3_02.wav",
+          "label": "贪杯的下场…哼！"
+        },
+        {
+          "file": "sounds/vo_diona_battle_skill1_06.wav",
+          "label": "我可不好欺负！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_diona_dialog_greetingNight2.mp3",
+          "label": "你没有猫的夜视能力，走夜路不要紧吧？"
+        },
+        {
+          "file": "sounds/vo_diona_dialog_close.mp3",
+          "label": "想喝无酒精饮料？难倒是不难，但是没有意义！"
+        }
+      ]
+    }
+  }
+}

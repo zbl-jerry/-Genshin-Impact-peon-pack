@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "hutao",
+  "display_name": "胡桃 / Hu Tao",
+  "version": "1.0.0",
+  "description": "往生堂堂主胡桃，古灵精怪，顺口溜台词，热情豁达的生死观。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_dialog_greetingMorning.wav",
+          "label": "嗯~早起身体好，晚睡人会飘"
+        },
+        {
+          "file": "sounds/vo_hutao_dialog_greetingNoon.wav",
+          "label": "哟！中午好呀，吃了吗？"
+        },
+        {
+          "file": "sounds/vo_hutao_dialog_greetingNight.wav",
+          "label": "嘻嘻，月亮出来喽~咱也出门吧"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_battle_skill1_01.wav",
+          "label": "喝！"
+        },
+        {
+          "file": "sounds/vo_hutao_battle_skill1_02.wav",
+          "label": "起！"
+        },
+        {
+          "file": "sounds/vo_hutao_battle_skill3_01.wav",
+          "label": "吃饱喝饱，一路走好！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_chest_open_01.wav",
+          "label": "撞大运咯！"
+        },
+        {
+          "file": "sounds/vo_hutao_battle_skill3_02.wav",
+          "label": "再会啦！"
+        },
+        {
+          "file": "sounds/vo_hutao_battle_skill3_03.wav",
+          "label": "蝶火燎原！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_battle_hit_H_02.wav",
+          "label": "干嘛呀！"
+        },
+        {
+          "file": "sounds/vo_hutao_life_less30_03.wav",
+          "label": "糟糕！"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_dialog_idle.wav",
+          "label": "胡桃的胡是胡吃海喝的胡！嘿嘿…不好笑吗？"
+        },
+        {
+          "file": "sounds/vo_hutao_life_less30_02.wav",
+          "label": "噫——！"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_life_less30_01.wav",
+          "label": "哎哟哎哟！"
+        },
+        {
+          "file": "sounds/vo_hutao_life_less30_teammate_01.wav",
+          "label": "悠着点！"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_life_less30_teammate_02.wav",
+          "label": "放着我来！"
+        },
+        {
+          "file": "sounds/vo_hutao_chest_open_02.wav",
+          "label": "让我看看，都有些什么好东西"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_hutao_dialog_greetingNight2.wav",
+          "label": "困了吗？那你好好休息，我一个人四处转转"
+        },
+        {
+          "file": "sounds/vo_hutao_dialog_close.wav",
+          "label": "有空也给我讲讲你自己的故事吧"
+        }
+      ]
+    }
+  }
+}

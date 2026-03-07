@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "lanyan",
+  "display_name": "蓝砚 / Lan Yan",
+  "version": "1.0.0",
+  "description": "纳塔青鸟设定蓝砚，手工艺工会成员，温柔声线，随心而动。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_draw_appear_01.mp3",
+          "label": "你好，我是沉玉谷手工艺工会的蓝砚。想做点摆件、篮子还是花瓶？"
+        },
+        {
+          "file": "sounds/vo_lanyan_dialog_greetingMorning.wav",
+          "label": "被鸟叫吵醒了？哈哈，我去跟它们商量商量"
+        },
+        {
+          "file": "sounds/vo_lanyan_dialog_greetingNoon.wav",
+          "label": "采了些很新鲜的花，你也来嘛，我家里人见到你肯定高兴！"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_battle_skill3_01.wav",
+          "label": "搬疾运厄"
+        },
+        {
+          "file": "sounds/vo_lanyan_battle_skill1_04.wav",
+          "label": "翻飞"
+        },
+        {
+          "file": "sounds/vo_lanyan_dialog_close.mp3",
+          "label": "坐好。朋友。握手~"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_chest_open_02.wav",
+          "label": "好消息！你快看里面有什么？"
+        },
+        {
+          "file": "sounds/vo_lanyan_battle_skill3_02.wav",
+          "label": "玄燕传喜"
+        },
+        {
+          "file": "sounds/vo_lanyan_battle_skill3_03.wav",
+          "label": "漫卷翩翩"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_battle_hit_H_02.wav",
+          "label": "脾气真差！"
+        },
+        {
+          "file": "sounds/vo_lanyan_life_die_03.wav",
+          "label": "飞不起来…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_character_idle_01.wav",
+          "label": "今天的计划？听随当下的心意而动。每天都是，嘻嘻"
+        },
+        {
+          "file": "sounds/vo_lanyan_life_less30_02.wav",
+          "label": "有人帮忙吗？"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_life_less30_03.wav",
+          "label": "难办了…"
+        },
+        {
+          "file": "sounds/vo_lanyan_life_less30_01.wav",
+          "label": "给我点时间…"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_life_less30_teammate_01.wav",
+          "label": "不能硬撑了，快撤下来！"
+        },
+        {
+          "file": "sounds/vo_lanyan_battle_hit_H_01.wav",
+          "label": "不对头！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_lanyan_dialog_greetingNight2.wav",
+          "label": "我好困…先睡了先睡了，就不陪你熬夜了"
+        },
+        {
+          "file": "sounds/vo_lanyan_friendship_05.mp3",
+          "label": "最最重要的，是「开心」。要开心呀！我也是，你也是！"
+        }
+      ]
+    }
+  }
+}

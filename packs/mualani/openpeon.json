@@ -1,0 +1,123 @@
+{
+  "cesp_version": "1.0",
+  "name": "mualani",
+  "display_name": "玛拉妮 / Mualani",
+  "version": "1.0.0",
+  "description": "纳塔向导玛拉妮，鲨鱼妹，热情开朗，冲浪是她的标志。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_draw_appear_01.mp3",
+          "label": "尊敬的旅行者，欢迎你参加本次旅行，我是向导玛拉妮！"
+        },
+        {
+          "file": "sounds/vo_mualani_dialog_greetingMorning.wav",
+          "label": "好消息，今天没有睡过头！奖励我自己吃顿超豪华早餐吧"
+        },
+        {
+          "file": "sounds/vo_mualani_character_idle_01.wav",
+          "label": "只要你来了，剩下的全都交给我来安排吧"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_battle_skill1_01.wav",
+          "label": "起乘！"
+        },
+        {
+          "file": "sounds/vo_mualani_battle_skill3_02.wav",
+          "label": "飞澜鲨鲨！"
+        },
+        {
+          "file": "sounds/vo_mualani_battle_skill3_03.wav",
+          "label": "看我看我！祝你好运！"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_chest_open_01.wav",
+          "label": "我就说今天是幸运日吧！"
+        },
+        {
+          "file": "sounds/vo_mualani_battle_skill1_04.wav",
+          "label": "哟呼！"
+        },
+        {
+          "file": "sounds/vo_mualani_battle_skill1_05.wav",
+          "label": "超棒！"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_battle_hit_H_01.wav",
+          "label": "别太过分！"
+        },
+        {
+          "file": "sounds/vo_mualani_life_less30_02.wav",
+          "label": "今天的运势不太好…"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_character_idle_02.wav",
+          "label": "你试过追着海浪奔跑吗？想试吗？要试吗？就现在！"
+        },
+        {
+          "file": "sounds/vo_mualani_life_less30_03.wav",
+          "label": "我会赢…我会赢！"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_life_less30_01.wav",
+          "label": "我还要保护我的旅客"
+        },
+        {
+          "file": "sounds/vo_mualani_battle_hit_H_02.wav",
+          "label": "我的冲浪板——"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_life_less30_teammate_02.wav",
+          "label": "过分，换我来揍它！"
+        },
+        {
+          "file": "sounds/vo_mualani_character_idle_03.wav",
+          "label": "一群人就能挑战很多不可能！"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_mualani_dialog_greetingNight2.wav",
+          "label": "在篝火晚会上跳舞跳精神了，今晚肯定睡不着了…呜"
+        },
+        {
+          "file": "sounds/vo_mualani_dialog_close1.mp3",
+          "label": "我们早就是可以互相托付生命的伙伴了"
+        }
+      ]
+    }
+  }
+}
