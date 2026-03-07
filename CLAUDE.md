@@ -205,13 +205,28 @@ for cat_data in manifest['categories'].values():
         icon_idx += 1
 ```
 
+### Reusable script
+
+All steps above are encapsulated in `scripts/apply_icons.py`. For a new character, just run:
+
+```bash
+# 1. Navigate browser to Google Images search
+# 2. Run evaluate_script to extract base64 URIs (result auto-saves to temp file)
+# 3. Apply:
+python3 scripts/apply_icons.py <pack_name> <result_file_path>
+```
+
+The script handles decode → validate → save → patch openpeon.json → install to `~/.openpeon/packs/` in one pass.
+
 ### Key lessons
 
 - Google Images search results embed **full-resolution thumbnails as inline base64** — no HTTP fetching needed
 - Filter by `naturalWidth >= 80` to skip Google UI icons
-- The MCP tool auto-saves oversized results to a temp file; parse the outer `[{type, text}]` wrapper, then extract the JSON from the markdown code fence inside `text`
-- Always validate **magic bytes** (not just file extension) before saving
-- 20 thumbnail images = ~220KB total, well within pack size limits
+- The MCP tool auto-saves oversized results to a temp file; the file path appears in the error message — read it directly with Python
+- Parse the outer `[{type, text}]` wrapper, then extract the JSON array from the markdown code fence inside `text`
+- Always validate **magic bytes** (not just file extension) before saving; JPEG = `\xff\xd8\xff`, PNG = `\x89PNG\r\n\x1a\n`
+- 19 thumbnails are reliably available on the first page load without scrolling — no need to trigger lazy-load
+- Processing is sequential (one browser tab); each character takes ~2 tool calls (navigate + evaluate)
 
 ## Adding a New Character
 
