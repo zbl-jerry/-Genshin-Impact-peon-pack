@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_draw_appear_01.mp3",
-          "label": "我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？"
+          "label": "我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？",
+          "icon": "icons/sigewinne_00.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_dialog_greetingMorning.wav",
-          "label": "早上好，睡得好吗？用温水洗脸对皮肤刺激最小"
+          "label": "早上好，睡得好吗？用温水洗脸对皮肤刺激最小",
+          "icon": "icons/sigewinne_01.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_dialog_greetingNoon.wav",
-          "label": "午饭时间快到了，我得暂时离开一下下"
+          "label": "午饭时间快到了，我得暂时离开一下下",
+          "icon": "icons/sigewinne_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_battle_skill3_01.wav",
-          "label": "谨誓！精研医理"
+          "label": "谨誓！精研医理",
+          "icon": "icons/sigewinne_03.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_skill3_03.wav",
-          "label": "医嘱：即刻注射"
+          "label": "医嘱：即刻注射",
+          "icon": "icons/sigewinne_04.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_skill1_02.wav",
-          "label": "我看看"
+          "label": "我看看",
+          "icon": "icons/sigewinne_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_chest_open_03.wav",
-          "label": "可爱的人值得最好的宝物"
+          "label": "可爱的人值得最好的宝物",
+          "icon": "icons/sigewinne_06.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_skill3_02.wav",
-          "label": "别紧张哦，放松"
+          "label": "别紧张哦，放松",
+          "icon": "icons/sigewinne_07.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_life_less30_teammate_02.wav",
-          "label": "救援到了！"
+          "label": "救援到了！",
+          "icon": "icons/sigewinne_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_battle_hit_H_01.wav",
-          "label": "生气了！"
+          "label": "生气了！",
+          "icon": "icons/sigewinne_09.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_hit_H_02.wav",
-          "label": "你不可爱！"
+          "label": "你不可爱！",
+          "icon": "icons/sigewinne_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_character_idle_02.wav",
-          "label": "哪里磕着碰着了吗？不舒服要随时叫我哟"
+          "label": "哪里磕着碰着了吗？不舒服要随时叫我哟",
+          "icon": "icons/sigewinne_11.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_skill1_01.wav",
-          "label": "别动哟"
+          "label": "别动哟",
+          "icon": "icons/sigewinne_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_life_less30_01.wav",
-          "label": "我能治疗自己！"
+          "label": "我能治疗自己！",
+          "icon": "icons/sigewinne_13.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_battle_skill1_03.wav",
-          "label": "冷静"
+          "label": "冷静",
+          "icon": "icons/sigewinne_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_life_less30_teammate_01.wav",
-          "label": "看来得强制治疗了…"
+          "label": "看来得强制治疗了…",
+          "icon": "icons/sigewinne_15.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_life_less30_03.wav",
-          "label": "没关系的…"
+          "label": "没关系的…",
+          "icon": "icons/sigewinne_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sigewinne_dialog_greetingNight.mp3",
-          "label": "几点啦？我喜欢黑漆漆的地方"
+          "label": "几点啦？我喜欢黑漆漆的地方",
+          "icon": "icons/sigewinne_17.jpg"
         },
         {
           "file": "sounds/vo_sigewinne_dialog_greetingNight2.mp3",
-          "label": "感觉入睡很困难？来聊聊心事吧"
+          "label": "感觉入睡很困难？来聊聊心事吧",
+          "icon": "icons/sigewinne_18.jpg"
         }
       ]
     }

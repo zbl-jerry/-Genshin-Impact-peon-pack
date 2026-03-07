@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_draw_appear_01.mp3",
-          "label": "尊敬的旅行者，欢迎你参加本次旅行，我是向导玛拉妮！"
+          "label": "尊敬的旅行者，欢迎你参加本次旅行，我是向导玛拉妮！",
+          "icon": "icons/mualani_00.jpg"
         },
         {
           "file": "sounds/vo_mualani_dialog_greetingMorning.wav",
-          "label": "好消息，今天没有睡过头！奖励我自己吃顿超豪华早餐吧"
+          "label": "好消息，今天没有睡过头！奖励我自己吃顿超豪华早餐吧",
+          "icon": "icons/mualani_01.jpg"
         },
         {
           "file": "sounds/vo_mualani_character_idle_01.wav",
-          "label": "只要你来了，剩下的全都交给我来安排吧"
+          "label": "只要你来了，剩下的全都交给我来安排吧",
+          "icon": "icons/mualani_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_battle_skill1_01.wav",
-          "label": "起乘！"
+          "label": "起乘！",
+          "icon": "icons/mualani_03.jpg"
         },
         {
           "file": "sounds/vo_mualani_battle_skill3_02.wav",
-          "label": "飞澜鲨鲨！"
+          "label": "飞澜鲨鲨！",
+          "icon": "icons/mualani_04.jpg"
         },
         {
           "file": "sounds/vo_mualani_battle_skill3_03.wav",
-          "label": "看我看我！祝你好运！"
+          "label": "看我看我！祝你好运！",
+          "icon": "icons/mualani_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_chest_open_01.wav",
-          "label": "我就说今天是幸运日吧！"
+          "label": "我就说今天是幸运日吧！",
+          "icon": "icons/mualani_06.jpg"
         },
         {
           "file": "sounds/vo_mualani_battle_skill1_04.wav",
-          "label": "哟呼！"
+          "label": "哟呼！",
+          "icon": "icons/mualani_07.jpg"
         },
         {
           "file": "sounds/vo_mualani_battle_skill1_05.wav",
-          "label": "超棒！"
+          "label": "超棒！",
+          "icon": "icons/mualani_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_battle_hit_H_01.wav",
-          "label": "别太过分！"
+          "label": "别太过分！",
+          "icon": "icons/mualani_09.jpg"
         },
         {
           "file": "sounds/vo_mualani_life_less30_02.wav",
-          "label": "今天的运势不太好…"
+          "label": "今天的运势不太好…",
+          "icon": "icons/mualani_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_character_idle_02.wav",
-          "label": "你试过追着海浪奔跑吗？想试吗？要试吗？就现在！"
+          "label": "你试过追着海浪奔跑吗？想试吗？要试吗？就现在！",
+          "icon": "icons/mualani_11.jpg"
         },
         {
           "file": "sounds/vo_mualani_life_less30_03.wav",
-          "label": "我会赢…我会赢！"
+          "label": "我会赢…我会赢！",
+          "icon": "icons/mualani_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_life_less30_01.wav",
-          "label": "我还要保护我的旅客"
+          "label": "我还要保护我的旅客",
+          "icon": "icons/mualani_13.jpg"
         },
         {
           "file": "sounds/vo_mualani_battle_hit_H_02.wav",
-          "label": "我的冲浪板——"
+          "label": "我的冲浪板——",
+          "icon": "icons/mualani_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_life_less30_teammate_02.wav",
-          "label": "过分，换我来揍它！"
+          "label": "过分，换我来揍它！",
+          "icon": "icons/mualani_15.jpg"
         },
         {
           "file": "sounds/vo_mualani_character_idle_03.wav",
-          "label": "一群人就能挑战很多不可能！"
+          "label": "一群人就能挑战很多不可能！",
+          "icon": "icons/mualani_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_mualani_dialog_greetingNight2.wav",
-          "label": "在篝火晚会上跳舞跳精神了，今晚肯定睡不着了…呜"
+          "label": "在篝火晚会上跳舞跳精神了，今晚肯定睡不着了…呜",
+          "icon": "icons/mualani_17.jpg"
         },
         {
           "file": "sounds/vo_mualani_dialog_close1.mp3",
-          "label": "我们早就是可以互相托付生命的伙伴了"
+          "label": "我们早就是可以互相托付生命的伙伴了",
+          "icon": "icons/mualani_18.jpg"
         }
       ]
     }

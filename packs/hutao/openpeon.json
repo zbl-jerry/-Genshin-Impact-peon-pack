@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_dialog_greetingMorning.wav",
-          "label": "嗯~早起身体好，晚睡人会飘"
+          "label": "嗯~早起身体好，晚睡人会飘",
+          "icon": "icons/hutao_00.jpg"
         },
         {
           "file": "sounds/vo_hutao_dialog_greetingNoon.wav",
-          "label": "哟！中午好呀，吃了吗？"
+          "label": "哟！中午好呀，吃了吗？",
+          "icon": "icons/hutao_01.jpg"
         },
         {
           "file": "sounds/vo_hutao_dialog_greetingNight.wav",
-          "label": "嘻嘻，月亮出来喽~咱也出门吧"
+          "label": "嘻嘻，月亮出来喽~咱也出门吧",
+          "icon": "icons/hutao_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_battle_skill1_01.wav",
-          "label": "喝！"
+          "label": "喝！",
+          "icon": "icons/hutao_03.jpg"
         },
         {
           "file": "sounds/vo_hutao_battle_skill1_02.wav",
-          "label": "起！"
+          "label": "起！",
+          "icon": "icons/hutao_04.jpg"
         },
         {
           "file": "sounds/vo_hutao_battle_skill3_01.wav",
-          "label": "吃饱喝饱，一路走好！"
+          "label": "吃饱喝饱，一路走好！",
+          "icon": "icons/hutao_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_chest_open_01.wav",
-          "label": "撞大运咯！"
+          "label": "撞大运咯！",
+          "icon": "icons/hutao_06.jpg"
         },
         {
           "file": "sounds/vo_hutao_battle_skill3_02.wav",
-          "label": "再会啦！"
+          "label": "再会啦！",
+          "icon": "icons/hutao_07.jpg"
         },
         {
           "file": "sounds/vo_hutao_battle_skill3_03.wav",
-          "label": "蝶火燎原！"
+          "label": "蝶火燎原！",
+          "icon": "icons/hutao_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_battle_hit_H_02.wav",
-          "label": "干嘛呀！"
+          "label": "干嘛呀！",
+          "icon": "icons/hutao_09.jpg"
         },
         {
           "file": "sounds/vo_hutao_life_less30_03.wav",
-          "label": "糟糕！"
+          "label": "糟糕！",
+          "icon": "icons/hutao_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_dialog_idle.wav",
-          "label": "胡桃的胡是胡吃海喝的胡！嘿嘿…不好笑吗？"
+          "label": "胡桃的胡是胡吃海喝的胡！嘿嘿…不好笑吗？",
+          "icon": "icons/hutao_11.jpg"
         },
         {
           "file": "sounds/vo_hutao_life_less30_02.wav",
-          "label": "噫——！"
+          "label": "噫——！",
+          "icon": "icons/hutao_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_life_less30_01.wav",
-          "label": "哎哟哎哟！"
+          "label": "哎哟哎哟！",
+          "icon": "icons/hutao_13.jpg"
         },
         {
           "file": "sounds/vo_hutao_life_less30_teammate_01.wav",
-          "label": "悠着点！"
+          "label": "悠着点！",
+          "icon": "icons/hutao_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_life_less30_teammate_02.wav",
-          "label": "放着我来！"
+          "label": "放着我来！",
+          "icon": "icons/hutao_15.jpg"
         },
         {
           "file": "sounds/vo_hutao_chest_open_02.wav",
-          "label": "让我看看，都有些什么好东西"
+          "label": "让我看看，都有些什么好东西",
+          "icon": "icons/hutao_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_hutao_dialog_greetingNight2.wav",
-          "label": "困了吗？那你好好休息，我一个人四处转转"
+          "label": "困了吗？那你好好休息，我一个人四处转转",
+          "icon": "icons/hutao_17.jpg"
         },
         {
           "file": "sounds/vo_hutao_dialog_close.wav",
-          "label": "有空也给我讲讲你自己的故事吧"
+          "label": "有空也给我讲讲你自己的故事吧",
+          "icon": "icons/hutao_18.jpg"
         }
       ]
     }

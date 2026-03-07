@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_dialog_greetingMorning.mp3",
-          "label": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…"
+          "label": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…",
+          "icon": "icons/sayu_00.jpg"
         },
         {
           "file": "sounds/vo_sayu_dialog_greetingNoon.wav",
-          "label": "好困，午睡时间还不到吗？"
+          "label": "好困，午睡时间还不到吗？",
+          "icon": "icons/sayu_01.jpg"
         },
         {
           "file": "sounds/vo_sayu_character_idle_01.mp3",
-          "label": "呼啊…呼噜呼噜——"
+          "label": "呼啊…呼噜呼噜——",
+          "icon": "icons/sayu_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_battle_skill3_02.wav",
-          "label": "出来吧！"
+          "label": "出来吧！",
+          "icon": "icons/sayu_03.jpg"
         },
         {
           "file": "sounds/vo_sayu_battle_skill1_04.wav",
-          "label": "极意遁走"
+          "label": "极意遁走",
+          "icon": "icons/sayu_04.jpg"
         },
         {
           "file": "sounds/vo_sayu_battle_skill3_01.wav",
-          "label": "分身之术"
+          "label": "分身之术",
+          "icon": "icons/sayu_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_chest_open_02.wav",
-          "label": "大丰收！可以睡觉了吗？"
+          "label": "大丰收！可以睡觉了吗？",
+          "icon": "icons/sayu_06.jpg"
         },
         {
           "file": "sounds/vo_sayu_battle_skill1_05.wav",
-          "label": "抓不住我…呜"
+          "label": "抓不住我…呜",
+          "icon": "icons/sayu_07.jpg"
         },
         {
           "file": "sounds/vo_sayu_chest_open_01.wav",
-          "label": "这个箱子…好像可以睡进去"
+          "label": "这个箱子…好像可以睡进去",
+          "icon": "icons/sayu_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_battle_hit_H_02.wav",
-          "label": "呜，要晕倒了"
+          "label": "呜，要晕倒了",
+          "icon": "icons/sayu_09.jpg"
         },
         {
           "file": "sounds/vo_sayu_life_die_03.wav",
-          "label": "不该偷懒的…"
+          "label": "不该偷懒的…",
+          "icon": "icons/sayu_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_character_idle_02.wav",
-          "label": "工作还不如睡觉"
+          "label": "工作还不如睡觉",
+          "icon": "icons/sayu_11.jpg"
         },
         {
           "file": "sounds/vo_sayu_life_less30_02.wav",
-          "label": "头晕乎乎的"
+          "label": "头晕乎乎的",
+          "icon": "icons/sayu_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_life_less30_03.wav",
-          "label": "呼，好累"
+          "label": "呼，好累",
+          "icon": "icons/sayu_13.jpg"
         },
         {
           "file": "sounds/vo_sayu_dialog_idle.mp3",
-          "label": "一直拖着不做，就会有更合适的人去做"
+          "label": "一直拖着不做，就会有更合适的人去做",
+          "icon": "icons/sayu_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_life_less30_teammate_02.wav",
-          "label": "先退下休息"
+          "label": "先退下休息",
+          "icon": "icons/sayu_15.jpg"
         },
         {
           "file": "sounds/vo_sayu_life_less30_teammate_01.wav",
-          "label": "我来掩护"
+          "label": "我来掩护",
+          "icon": "icons/sayu_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_sayu_dialog_greetingNight.wav",
-          "label": "确认完毕，方圆十里内没有巫女姐姐。今晚可以睡个好觉啦~"
+          "label": "确认完毕，方圆十里内没有巫女姐姐。今晚可以睡个好觉啦~",
+          "icon": "icons/sayu_17.jpg"
         },
         {
           "file": "sounds/vo_sayu_dialog_greetingNight2.wav",
-          "label": "终于…可以睡觉了…晚…晚安…"
+          "label": "终于…可以睡觉了…晚…晚安…",
+          "icon": "icons/sayu_18.jpg"
         }
       ]
     }

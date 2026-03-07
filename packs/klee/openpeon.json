@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_dialog_greetingMorning.wav",
-          "label": "早安！带可莉出去玩吧！"
+          "label": "早安！带可莉出去玩吧！",
+          "icon": "icons/klee_00.jpg"
         },
         {
           "file": "sounds/vo_klee_dialog_greetingNoon.wav",
-          "label": "午饭时间到了！啊…吃什么呢？"
+          "label": "午饭时间到了！啊…吃什么呢？",
+          "icon": "icons/klee_01.jpg"
         },
         {
           "file": "sounds/vo_klee_chest_open_01.wav",
-          "label": "可莉又找到新的宝物了！"
+          "label": "可莉又找到新的宝物了！",
+          "icon": "icons/klee_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_battle_skill1_01.wav",
-          "label": "蹦蹦炸弹！"
+          "label": "蹦蹦炸弹！",
+          "icon": "icons/klee_03.jpg"
         },
         {
           "file": "sounds/vo_klee_battle_skill3_01.wav",
-          "label": "轰轰火花！"
+          "label": "轰轰火花！",
+          "icon": "icons/klee_04.jpg"
         },
         {
           "file": "sounds/vo_klee_life_less30_teammate_02.wav",
-          "label": "你不要紧吧？"
+          "label": "你不要紧吧？",
+          "icon": "icons/klee_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_chest_open_02.wav",
-          "label": "亮闪闪的，好开心！"
+          "label": "亮闪闪的，好开心！",
+          "icon": "icons/klee_06.jpg"
         },
         {
           "file": "sounds/vo_klee_battle_skill3_02.wav",
-          "label": "火力全开！"
+          "label": "火力全开！",
+          "icon": "icons/klee_07.jpg"
         },
         {
           "file": "sounds/vo_klee_battle_skill3_03.wav",
-          "label": "全——都可以炸完！"
+          "label": "全——都可以炸完！",
+          "icon": "icons/klee_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_battle_hit_H_02.wav",
-          "label": "好疼啊！"
+          "label": "好疼啊！",
+          "icon": "icons/klee_09.jpg"
         },
         {
           "file": "sounds/vo_klee_life_less30_01.wav",
-          "label": "哇…怎么会这样…"
+          "label": "哇…怎么会这样…",
+          "icon": "icons/klee_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_dialog_idle.wav",
-          "label": "呜…这次居然炸歪了大风车的叶片…真对不起！"
+          "label": "呜…这次居然炸歪了大风车的叶片…真对不起！",
+          "icon": "icons/klee_11.jpg"
         },
         {
           "file": "sounds/vo_klee_life_less30_02.wav",
-          "label": "琴团长…它欺负我…"
+          "label": "琴团长…它欺负我…",
+          "icon": "icons/klee_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_life_die_02.wav",
-          "label": "可莉…想回家了…"
+          "label": "可莉…想回家了…",
+          "icon": "icons/klee_13.jpg"
         },
         {
           "file": "sounds/vo_klee_life_less30_03.wav",
-          "label": "玩累了，有点晕…"
+          "label": "玩累了，有点晕…",
+          "icon": "icons/klee_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_life_less30_teammate_01.wav",
-          "label": "火花骑士，爆破支援！"
+          "label": "火花骑士，爆破支援！",
+          "icon": "icons/klee_15.jpg"
         },
         {
           "file": "sounds/vo_klee_dialog_close.mp3",
-          "label": "能不能帮我隐瞒一下…"
+          "label": "能不能帮我隐瞒一下…",
+          "icon": "icons/klee_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_klee_dialog_greetingNight2.mp3",
-          "label": "天黑以后…拜托你回去的时候，把我也送回家好不好…"
+          "label": "天黑以后…拜托你回去的时候，把我也送回家好不好…",
+          "icon": "icons/klee_17.jpg"
         },
         {
           "file": "sounds/vo_klee_dialog_greetingNight.mp3",
-          "label": "晚上好！可莉不是小孩子了"
+          "label": "晚上好！可莉不是小孩子了",
+          "icon": "icons/klee_18.jpg"
         }
       ]
     }

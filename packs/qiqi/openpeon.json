@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_dialog_greetingMorning.wav",
-          "label": "早上了吗？今天要做的是…我看看笔记"
+          "label": "早上了吗？今天要做的是…我看看笔记",
+          "icon": "icons/qiqi_00.jpg"
         },
         {
           "file": "sounds/vo_qiqi_dialog_greetingNoon.wav",
-          "label": "…忘记帮白先生分拣药材了"
+          "label": "…忘记帮白先生分拣药材了",
+          "icon": "icons/qiqi_01.jpg"
         },
         {
           "file": "sounds/vo_qiqi_chest_open_02.wav",
-          "label": "宝箱…有用吗？"
+          "label": "宝箱…有用吗？",
+          "icon": "icons/qiqi_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_battle_skill1_02.wav",
-          "label": "生生不绝"
+          "label": "生生不绝",
+          "icon": "icons/qiqi_03.jpg"
         },
         {
           "file": "sounds/vo_qiqi_battle_skill1_03.wav",
-          "label": "去"
+          "label": "去",
+          "icon": "icons/qiqi_04.jpg"
         },
         {
           "file": "sounds/vo_qiqi_battle_skill3_01.wav",
-          "label": "听诏，宣此诰命"
+          "label": "听诏，宣此诰命",
+          "icon": "icons/qiqi_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_chest_open_01.wav",
-          "label": "好看"
+          "label": "好看",
+          "icon": "icons/qiqi_06.jpg"
         },
         {
           "file": "sounds/vo_qiqi_battle_skill1_01.wav",
-          "label": "流转不息"
+          "label": "流转不息",
+          "icon": "icons/qiqi_07.jpg"
         },
         {
           "file": "sounds/vo_qiqi_battle_skill3_02.wav",
-          "label": "真名，度厄真君"
+          "label": "真名，度厄真君",
+          "icon": "icons/qiqi_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_battle_hit_H_01.wav",
-          "label": "居然…"
+          "label": "居然…",
+          "icon": "icons/qiqi_09.jpg"
         },
         {
           "file": "sounds/vo_qiqi_life_less30_03.wav",
-          "label": "要活下去…"
+          "label": "要活下去…",
+          "icon": "icons/qiqi_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_dialog_idle.wav",
-          "label": "你问我吗…？对不起，我不记得了…"
+          "label": "你问我吗…？对不起，我不记得了…",
+          "icon": "icons/qiqi_11.jpg"
         },
         {
           "file": "sounds/vo_qiqi_life_less30_teammate_01.wav",
-          "label": "危险"
+          "label": "危险",
+          "icon": "icons/qiqi_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_life_less30_01.wav",
-          "label": "痛"
+          "label": "痛",
+          "icon": "icons/qiqi_13.jpg"
         },
         {
           "file": "sounds/vo_qiqi_life_die_02.wav",
-          "label": "好冷…"
+          "label": "好冷…",
+          "icon": "icons/qiqi_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_life_less30_teammate_02.wav",
-          "label": "我来吧"
+          "label": "我来吧",
+          "icon": "icons/qiqi_15.jpg"
         },
         {
           "file": "sounds/vo_qiqi_battle_hit_L_02.wav",
-          "label": "没感觉…"
+          "label": "没感觉…",
+          "icon": "icons/qiqi_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_qiqi_dialog_greetingNight.wav",
-          "label": "晚上好。今天…我做了什么来着…"
+          "label": "晚上好。今天…我做了什么来着…",
+          "icon": "icons/qiqi_17.jpg"
         },
         {
           "file": "sounds/vo_qiqi_dialog_close.wav",
-          "label": "很多事情我都记不起来了，但是…也没什么不好"
+          "label": "很多事情我都记不起来了，但是…也没什么不好",
+          "icon": "icons/qiqi_18.jpg"
         }
       ]
     }

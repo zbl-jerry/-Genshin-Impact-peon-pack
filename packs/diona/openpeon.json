@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_dialog_greetingMorning.wav",
-          "label": "早，我要开始摧毁蒙德酒业啦"
+          "label": "早，我要开始摧毁蒙德酒业啦",
+          "icon": "icons/diona_00.jpg"
         },
         {
           "file": "sounds/vo_diona_dialog_greetingNoon.wav",
-          "label": "最多…最多只能给你尝一口"
+          "label": "最多…最多只能给你尝一口",
+          "icon": "icons/diona_01.jpg"
         },
         {
           "file": "sounds/vo_diona_chest_open_02.wav",
-          "label": "亮晶晶的…想要…扑过去！"
+          "label": "亮晶晶的…想要…扑过去！",
+          "icon": "icons/diona_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_battle_skill1_03.wav",
-          "label": "目标确认"
+          "label": "目标确认",
+          "icon": "icons/diona_03.jpg"
         },
         {
           "file": "sounds/vo_diona_battle_skill1_04.wav",
-          "label": "攻守兼备"
+          "label": "攻守兼备",
+          "icon": "icons/diona_04.jpg"
         },
         {
           "file": "sounds/vo_diona_battle_skill3_03.wav",
-          "label": "反省吧，酒鬼！"
+          "label": "反省吧，酒鬼！",
+          "icon": "icons/diona_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_battle_skill3_01.wav",
-          "label": "迪奥娜特调！"
+          "label": "迪奥娜特调！",
+          "icon": "icons/diona_06.jpg"
         },
         {
           "file": "sounds/vo_diona_chest_open_01.wav",
-          "label": "让酒变难喝的材料啊，出现吧！"
+          "label": "让酒变难喝的材料啊，出现吧！",
+          "icon": "icons/diona_07.jpg"
         },
         {
           "file": "sounds/vo_diona_battle_skill1_05.wav",
-          "label": "抓到你了！"
+          "label": "抓到你了！",
+          "icon": "icons/diona_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_life_less30_03.wav",
-          "label": "胜负还没分呢！"
+          "label": "胜负还没分呢！",
+          "icon": "icons/diona_09.jpg"
         },
         {
           "file": "sounds/vo_diona_life_less30_02.wav",
-          "label": "喵…喵…！"
+          "label": "喵…喵…！",
+          "icon": "icons/diona_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_dialog_idle.mp3",
-          "label": "耳朵和尾巴才不是什么装饰，是血统的象征！"
+          "label": "耳朵和尾巴才不是什么装饰，是血统的象征！",
+          "icon": "icons/diona_11.jpg"
         },
         {
           "file": "sounds/vo_diona_dialog_annoyed.mp3",
-          "label": "到底怎样才能调出难喝的酒呢…呜…我不会认输的…"
+          "label": "到底怎样才能调出难喝的酒呢…呜…我不会认输的…",
+          "icon": "icons/diona_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_life_less30_01.wav",
-          "label": "我不会认输…！"
+          "label": "我不会认输…！",
+          "icon": "icons/diona_13.jpg"
         },
         {
           "file": "sounds/vo_diona_life_less30_teammate_02.wav",
-          "label": "去休息去休息！"
+          "label": "去休息去休息！",
+          "icon": "icons/diona_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_battle_skill3_02.wav",
-          "label": "贪杯的下场…哼！"
+          "label": "贪杯的下场…哼！",
+          "icon": "icons/diona_15.jpg"
         },
         {
           "file": "sounds/vo_diona_battle_skill1_06.wav",
-          "label": "我可不好欺负！"
+          "label": "我可不好欺负！",
+          "icon": "icons/diona_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_diona_dialog_greetingNight2.mp3",
-          "label": "你没有猫的夜视能力，走夜路不要紧吧？"
+          "label": "你没有猫的夜视能力，走夜路不要紧吧？",
+          "icon": "icons/diona_17.jpg"
         },
         {
           "file": "sounds/vo_diona_dialog_close.mp3",
-          "label": "想喝无酒精饮料？难倒是不难，但是没有意义！"
+          "label": "想喝无酒精饮料？难倒是不难，但是没有意义！",
+          "icon": "icons/diona_18.jpg"
         }
       ]
     }

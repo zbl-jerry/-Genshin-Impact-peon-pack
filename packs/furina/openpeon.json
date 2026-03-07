@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_draw_appear_01.mp3",
-          "label": "站在你面前的就是枫丹大明星——芙宁娜"
+          "label": "站在你面前的就是枫丹大明星——芙宁娜",
+          "icon": "icons/furina_00.jpg"
         },
         {
           "file": "sounds/vo_furina_dialog_greetingMorning.wav",
-          "label": "早安…需要起这么早吗？"
+          "label": "早安…需要起这么早吗？",
+          "icon": "icons/furina_01.jpg"
         },
         {
           "file": "sounds/vo_furina_dialog_greetingNoon.wav",
-          "label": "午安！我的蛋糕在哪里？"
+          "label": "午安！我的蛋糕在哪里？",
+          "icon": "icons/furina_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_battle_skill3_01.wav",
-          "label": "让世界热闹起来吧"
+          "label": "让世界热闹起来吧",
+          "icon": "icons/furina_03.jpg"
         },
         {
           "file": "sounds/vo_furina_battle_skill3_03.wav",
-          "label": "欢唱，以我之名！"
+          "label": "欢唱，以我之名！",
+          "icon": "icons/furina_04.jpg"
         },
         {
           "file": "sounds/vo_furina_battle_skill1_02.wav",
-          "label": "亮相啦！"
+          "label": "亮相啦！",
+          "icon": "icons/furina_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_battle_skill3_02.wav",
-          "label": "闪耀时刻！"
+          "label": "闪耀时刻！",
+          "icon": "icons/furina_06.jpg"
         },
         {
           "file": "sounds/vo_furina_chest_open_01.wav",
-          "label": "意外之喜，就像蛋糕上的王冠"
+          "label": "意外之喜，就像蛋糕上的王冠",
+          "icon": "icons/furina_07.jpg"
         },
         {
           "file": "sounds/vo_furina_battle_skill1_04.wav",
-          "label": "开幕"
+          "label": "开幕",
+          "icon": "icons/furina_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_battle_hit_H_01.wav",
-          "label": "干什么啊！"
+          "label": "干什么啊！",
+          "icon": "icons/furina_09.jpg"
         },
         {
           "file": "sounds/vo_furina_life_less30_03.wav",
-          "label": "救命啊——"
+          "label": "救命啊——",
+          "icon": "icons/furina_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_character_idle_02.wav",
-          "label": "好无聊啊，没有什么更有趣的事吗？"
+          "label": "好无聊啊，没有什么更有趣的事吗？",
+          "icon": "icons/furina_11.jpg"
         },
         {
           "file": "sounds/vo_furina_battle_skill1_01.wav",
-          "label": "为我歌颂！"
+          "label": "为我歌颂！",
+          "icon": "icons/furina_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_battle_hit_H_02.wav",
-          "label": "别打了！"
+          "label": "别打了！",
+          "icon": "icons/furina_13.jpg"
         },
         {
           "file": "sounds/vo_furina_life_less30_01.wav",
-          "label": "总之先休战…"
+          "label": "总之先休战…",
+          "icon": "icons/furina_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_character_idle_03.wav",
-          "label": "人气太高也是一种苦恼，谁让我这么受欢迎呢"
+          "label": "人气太高也是一种苦恼，谁让我这么受欢迎呢",
+          "icon": "icons/furina_15.jpg"
         },
         {
           "file": "sounds/vo_furina_life_less30_teammate_02.wav",
-          "label": "换我登场了！"
+          "label": "换我登场了！",
+          "icon": "icons/furina_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_furina_dialog_greetingNight2.wav",
-          "label": "正好我也困了。明天见，记得准时叫我起来…"
+          "label": "正好我也困了。明天见，记得准时叫我起来…",
+          "icon": "icons/furina_17.jpg"
         },
         {
           "file": "sounds/vo_furina_dialog_greetingNight.mp3",
-          "label": "晚上好"
+          "label": "晚上好",
+          "icon": "icons/furina_18.jpg"
         }
       ]
     }

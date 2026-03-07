@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_draw_appear_01.mp3",
-          "label": "初次见面，我是林尼的魔术助手，工作事宜请咨询林尼"
+          "label": "初次见面，我是林尼的魔术助手，工作事宜请咨询林尼",
+          "icon": "icons/lynette_00.jpg"
         },
         {
           "file": "sounds/vo_lynette_dialog_greetingMorning.wav",
-          "label": "早安…充能尚未完成，即将再次休眠"
+          "label": "早安…充能尚未完成，即将再次休眠",
+          "icon": "icons/lynette_01.jpg"
         },
         {
           "file": "sounds/vo_lynette_character_idle_01.wav",
-          "label": "茶泡好了，接下来可以休息一会儿了"
+          "label": "茶泡好了，接下来可以休息一会儿了",
+          "icon": "icons/lynette_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_battle_skill3_02.wav",
-          "label": "来点灯光"
+          "label": "来点灯光",
+          "icon": "icons/lynette_03.jpg"
         },
         {
           "file": "sounds/vo_lynette_battle_skill3_03.wav",
-          "label": "请看这边"
+          "label": "请看这边",
+          "icon": "icons/lynette_04.jpg"
         },
         {
           "file": "sounds/vo_lynette_battle_skill1_02.wav",
-          "label": "在这里"
+          "label": "在这里",
+          "icon": "icons/lynette_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_chest_open_02.wav",
-          "label": "不出所料"
+          "label": "不出所料",
+          "icon": "icons/lynette_06.jpg"
         },
         {
           "file": "sounds/vo_lynette_chest_open_03.wav",
-          "label": "轻松到手"
+          "label": "轻松到手",
+          "icon": "icons/lynette_07.jpg"
         },
         {
           "file": "sounds/vo_lynette_battle_skill3_01.wav",
-          "label": "魔术开场"
+          "label": "魔术开场",
+          "icon": "icons/lynette_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_battle_hit_H_01.wav",
-          "label": "啊，没躲开"
+          "label": "啊，没躲开",
+          "icon": "icons/lynette_09.jpg"
         },
         {
           "file": "sounds/vo_lynette_life_die_02.wav",
-          "label": "魔术失误了…"
+          "label": "魔术失误了…",
+          "icon": "icons/lynette_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_character_idle_03.wav",
-          "label": "进入待机模式…希望不要有人来打扰我"
+          "label": "进入待机模式…希望不要有人来打扰我",
+          "icon": "icons/lynette_11.jpg"
         },
         {
           "file": "sounds/vo_lynette_battle_skill1_03.wav",
-          "label": "惊喜"
+          "label": "惊喜",
+          "icon": "icons/lynette_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_life_less30_03.wav",
-          "label": "启动应敌模式…"
+          "label": "启动应敌模式…",
+          "icon": "icons/lynette_13.jpg"
         },
         {
           "file": "sounds/vo_lynette_life_less30_01.wav",
-          "label": "保持冷静"
+          "label": "保持冷静",
+          "icon": "icons/lynette_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_life_less30_teammate_01.wav",
-          "label": "快退后"
+          "label": "快退后",
+          "icon": "icons/lynette_15.jpg"
         },
         {
           "file": "sounds/vo_lynette_life_less30_teammate_02.wav",
-          "label": "我来吸引火力"
+          "label": "我来吸引火力",
+          "icon": "icons/lynette_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_lynette_dialog_greetingNight.mp3",
-          "label": "晚上的演出会很精彩，要给你留票吗？"
+          "label": "晚上的演出会很精彩，要给你留票吗？",
+          "icon": "icons/lynette_17.jpg"
         },
         {
           "file": "sounds/vo_lynette_dialog_greetingNight2.wav",
-          "label": "快睡吧，我还要处理白天没做完的事情…"
+          "label": "快睡吧，我还要处理白天没做完的事情…",
+          "icon": "icons/lynette_18.jpg"
         }
       ]
     }

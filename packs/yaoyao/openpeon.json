@@ -15,15 +15,18 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_dialog_greetingMorning.mp3",
-          "label": "该起床啦，我已经准备好早饭了！"
+          "label": "该起床啦，我已经准备好早饭了！",
+          "icon": "icons/yaoyao_00.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_draw_appear_01.mp3",
-          "label": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君"
+          "label": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君",
+          "icon": "icons/yaoyao_01.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_dialog_greetingNoon.wav",
-          "label": "吃完午饭后，不要立刻躺下午睡哦"
+          "label": "吃完午饭后，不要立刻躺下午睡哦",
+          "icon": "icons/yaoyao_02.jpg"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_battle_skill1_01.wav",
-          "label": "月桂！该上咯"
+          "label": "月桂！该上咯",
+          "icon": "icons/yaoyao_03.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_battle_skill3_01.wav",
-          "label": "预备…跑！"
+          "label": "预备…跑！",
+          "icon": "icons/yaoyao_04.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_character_idle_01.wav",
-          "label": "「明日复明日」总之，快快行动起来吧"
+          "label": "「明日复明日」总之，快快行动起来吧",
+          "icon": "icons/yaoyao_05.jpg"
         }
       ]
     },
@@ -47,15 +53,18 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_chest_open_03.wav",
-          "label": "哇！这些够用好几天了吧"
+          "label": "哇！这些够用好几天了吧",
+          "icon": "icons/yaoyao_06.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_battle_skill3_02.wav",
-          "label": "痛痛飞"
+          "label": "痛痛飞",
+          "icon": "icons/yaoyao_07.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_chest_open_01.wav",
-          "label": "都收好，不要落下哦！"
+          "label": "都收好，不要落下哦！",
+          "icon": "icons/yaoyao_08.jpg"
         }
       ]
     },
@@ -63,11 +72,13 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_battle_hit_H_02.wav",
-          "label": "好痛好痛…"
+          "label": "好痛好痛…",
+          "icon": "icons/yaoyao_09.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_life_less30_01.wav",
-          "label": "不行不行…"
+          "label": "不行不行…",
+          "icon": "icons/yaoyao_10.jpg"
         }
       ]
     },
@@ -75,11 +86,13 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_character_idle_02.wav",
-          "label": "那边好像有什么动静，偷偷看一眼应该没事吧！"
+          "label": "那边好像有什么动静，偷偷看一眼应该没事吧！",
+          "icon": "icons/yaoyao_11.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_battle_skill1_02.wav",
-          "label": "不要乱动哦！"
+          "label": "不要乱动哦！",
+          "icon": "icons/yaoyao_12.jpg"
         }
       ]
     },
@@ -87,11 +100,13 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_life_less30_03.wav",
-          "label": "没事，我可以的…"
+          "label": "没事，我可以的…",
+          "icon": "icons/yaoyao_13.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_life_less30_02.wav",
-          "label": "我要撑下去…"
+          "label": "我要撑下去…",
+          "icon": "icons/yaoyao_14.jpg"
         }
       ]
     },
@@ -99,11 +114,13 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_life_less30_teammate_02.wav",
-          "label": "人命关天，不要勉强！"
+          "label": "人命关天，不要勉强！",
+          "icon": "icons/yaoyao_15.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_life_less30_teammate_01.wav",
-          "label": "让瑶瑶保护你！"
+          "label": "让瑶瑶保护你！",
+          "icon": "icons/yaoyao_16.jpg"
         }
       ]
     },
@@ -111,11 +128,13 @@
       "sounds": [
         {
           "file": "sounds/vo_yaoyao_dialog_greetingNight.wav",
-          "label": "晚上还要出门吗？天色已晚，小心为上哦~"
+          "label": "晚上还要出门吗？天色已晚，小心为上哦~",
+          "icon": "icons/yaoyao_17.jpg"
         },
         {
           "file": "sounds/vo_yaoyao_dialog_greetingNight2.mp3",
-          "label": "睡前故事…呼呼…"
+          "label": "睡前故事…呼呼…",
+          "icon": "icons/yaoyao_18.jpg"
         }
       ]
     }
