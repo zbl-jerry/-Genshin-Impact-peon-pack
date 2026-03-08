@@ -15,18 +15,15 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_draw_appear_01.wav",
-          "label": "叫我伊安珊就好，我是那里最有名的健身教练。对健身感兴趣吗？",
-          "icon": "icons/iansan_00.jpg"
+          "label": "叫我伊安珊就好，我是那里最有名的健身教练。对健身感兴趣吗？"
         },
         {
           "file": "sounds/vo_iansan_dialog_greetingMorning.mp3",
-          "label": "嗨，早上好啊。要不要一起晨跑？",
-          "icon": "icons/iansan_01.jpg"
+          "label": "嗨，早上好啊。要不要一起晨跑？"
         },
         {
           "file": "sounds/vo_iansan_dialog_greetingNoon.mp3",
-          "label": "中午好啊，有好好吃午餐吧？",
-          "icon": "icons/iansan_02.jpg"
+          "label": "中午好啊，有好好吃午餐吧？"
         }
       ]
     },
@@ -34,18 +31,15 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_battle_skill3_01.wav",
-          "label": "动起来！",
-          "icon": "icons/iansan_03.jpg"
+          "label": "动起来！"
         },
         {
           "file": "sounds/vo_iansan_battle_skill1_01.wav",
-          "label": "风驰电掣！",
-          "icon": "icons/iansan_04.jpg"
+          "label": "风驰电掣！"
         },
         {
           "file": "sounds/vo_iansan_battle_skill1_02.wav",
-          "label": "更快，更强！",
-          "icon": "icons/iansan_05.jpg"
+          "label": "更快，更强！"
         }
       ]
     },
@@ -53,18 +47,15 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_chest_open_01.wav",
-          "label": "天道酬勤",
-          "icon": "icons/iansan_06.jpg"
+          "label": "天道酬勤"
         },
         {
           "file": "sounds/vo_iansan_battle_skill3_02.wav",
-          "label": "计时开始！",
-          "icon": "icons/iansan_07.jpg"
+          "label": "计时开始！"
         },
         {
           "file": "sounds/vo_iansan_battle_skill3_03.wav",
-          "label": "听我的口号！",
-          "icon": "icons/iansan_08.jpg"
+          "label": "听我的口号！"
         }
       ]
     },
@@ -72,13 +63,11 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_battle_hit_H_02.wav",
-          "label": "这还像回事…",
-          "icon": "icons/iansan_09.jpg"
+          "label": "这还像回事…"
         },
         {
           "file": "sounds/vo_iansan_life_die_02.wav",
-          "label": "这下练出事了…",
-          "icon": "icons/iansan_10.jpg"
+          "label": "这下练出事了…"
         }
       ]
     },
@@ -86,13 +75,11 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_character_idle_01.wav",
-          "label": "今天的指标还不够，再做一组吧",
-          "icon": "icons/iansan_11.jpg"
+          "label": "今天的指标还不够，再做一组吧"
         },
         {
           "file": "sounds/vo_iansan_life_less30_02.wav",
-          "label": "快到极限了吗？",
-          "icon": "icons/iansan_12.jpg"
+          "label": "快到极限了吗？"
         }
       ]
     },
@@ -100,13 +87,11 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_life_less30_01.wav",
-          "label": "还行，再咬咬牙！",
-          "icon": "icons/iansan_13.jpg"
+          "label": "还行，再咬咬牙！"
         },
         {
           "file": "sounds/vo_iansan_life_less30_03.wav",
-          "label": "得留意下肌肉的承受能力了…",
-          "icon": "icons/iansan_14.jpg"
+          "label": "得留意下肌肉的承受能力了…"
         }
       ]
     },
@@ -114,13 +99,11 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_life_less30_teammate_01.wav",
-          "label": "悠着点！",
-          "icon": "icons/iansan_15.jpg"
+          "label": "悠着点！"
         },
         {
           "file": "sounds/vo_iansan_life_less30_teammate_02.wav",
-          "label": "小心肌肉拉伤！",
-          "icon": "icons/iansan_16.jpg"
+          "label": "小心肌肉拉伤！"
         }
       ]
     },
@@ -128,13 +111,11 @@
       "sounds": [
         {
           "file": "sounds/vo_iansan_dialog_greetingNight2.wav",
-          "label": "该休息咯，熬夜可是健身的大忌",
-          "icon": "icons/iansan_17.jpg"
+          "label": "该休息咯，熬夜可是健身的大忌"
         },
         {
           "file": "sounds/vo_iansan_dialog_greetingNight.mp3",
-          "label": "刚入夜的这段时间很适合到户外做一些运动。要不要试试？",
-          "icon": "icons/iansan_18.jpg"
+          "label": "刚入夜的这段时间很适合到户外做一些运动。要不要试试？"
         }
       ]
     }

@@ -15,18 +15,15 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_dialog_greetingMorning.wav",
-          "label": "昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天",
-          "icon": "icons/dori_00.jpg"
+          "label": "昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天"
         },
         {
           "file": "sounds/vo_dori_character_idle_01.wav",
-          "label": "我爱摩拉，摩拉爱我，啦啦啦",
-          "icon": "icons/dori_01.jpg"
+          "label": "我爱摩拉，摩拉爱我，啦啦啦"
         },
         {
           "file": "sounds/vo_dori_dialog_idle.mp3",
-          "label": "万能的多莉商店，应有尽有，童叟无欺",
-          "icon": "icons/dori_02.jpg"
+          "label": "万能的多莉商店，应有尽有，童叟无欺"
         }
       ]
     },
@@ -34,18 +31,15 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_battle_skill1_02.wav",
-          "label": "看我的！",
-          "icon": "icons/dori_03.jpg"
+          "label": "看我的！"
         },
         {
           "file": "sounds/vo_dori_chest_open_02.wav",
-          "label": "先让我看看",
-          "icon": "icons/dori_04.jpg"
+          "label": "先让我看看"
         },
         {
           "file": "sounds/vo_dori_battle_skill3_01.wav",
-          "label": "魔灯显灵！",
-          "icon": "icons/dori_05.jpg"
+          "label": "魔灯显灵！"
         }
       ]
     },
@@ -53,18 +47,15 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_chest_open_01.wav",
-          "label": "哇，分我一半！",
-          "icon": "icons/dori_06.jpg"
+          "label": "哇，分我一半！"
         },
         {
           "file": "sounds/vo_dori_battle_skill3_02.wav",
-          "label": "大显身手时间！",
-          "icon": "icons/dori_07.jpg"
+          "label": "大显身手时间！"
         },
         {
           "file": "sounds/vo_dori_battle_skill3_03.wav",
-          "label": "一手交钱，一手交货",
-          "icon": "icons/dori_08.jpg"
+          "label": "一手交钱，一手交货"
         }
       ]
     },
@@ -72,13 +63,11 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_battle_hit_H_01.wav",
-          "label": "欺人太甚！",
-          "icon": "icons/dori_09.jpg"
+          "label": "欺人太甚！"
         },
         {
           "file": "sounds/vo_dori_battle_hit_H_02.wav",
-          "label": "列进黑名单！",
-          "icon": "icons/dori_10.jpg"
+          "label": "列进黑名单！"
         }
       ]
     },
@@ -86,13 +75,11 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_dialog_annoyed.mp3",
-          "label": "拿着才三成利的生意就来打扰我…没有百分百的利润我连听完的兴趣都没有",
-          "icon": "icons/dori_11.jpg"
+          "label": "拿着才三成利的生意就来打扰我…没有百分百的利润我连听完的兴趣都没有"
         },
         {
           "file": "sounds/vo_dori_life_less30_02.wav",
-          "label": "啊救命啊，抢劫啦！",
-          "icon": "icons/dori_12.jpg"
+          "label": "啊救命啊，抢劫啦！"
         }
       ]
     },
@@ -100,13 +87,11 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_life_less30_01.wav",
-          "label": "休想抢走我一分摩拉！",
-          "icon": "icons/dori_13.jpg"
+          "label": "休想抢走我一分摩拉！"
         },
         {
           "file": "sounds/vo_dori_life_less30_03.wav",
-          "label": "一定要保护好摩拉",
-          "icon": "icons/dori_14.jpg"
+          "label": "一定要保护好摩拉"
         }
       ]
     },
@@ -114,13 +99,11 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_life_less30_teammate_02.wav",
-          "label": "命和摩拉一样重要",
-          "icon": "icons/dori_15.jpg"
+          "label": "命和摩拉一样重要"
         },
         {
           "file": "sounds/vo_dori_life_less30_teammate_01.wav",
-          "label": "救命之恩，记得给钱！",
-          "icon": "icons/dori_16.jpg"
+          "label": "救命之恩，记得给钱！"
         }
       ]
     },
@@ -128,13 +111,11 @@
       "sounds": [
         {
           "file": "sounds/vo_dori_dialog_greetingNight.wav",
-          "label": "在夜色中赶路很有挑战性，不过这可难不倒常年在外行商的我！",
-          "icon": "icons/dori_17.jpg"
+          "label": "在夜色中赶路很有挑战性，不过这可难不倒常年在外行商的我！"
         },
         {
           "file": "sounds/vo_dori_dialog_greetingNight2.mp3",
-          "label": "你要睡觉了吗？嘿嘿，让你试试我的摩拉歌谣催眠法吧！",
-          "icon": "icons/dori_18.jpg"
+          "label": "你要睡觉了吗？嘿嘿，让你试试我的摩拉歌谣催眠法吧！"
         }
       ]
     }

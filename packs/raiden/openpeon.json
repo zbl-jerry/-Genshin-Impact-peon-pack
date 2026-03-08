@@ -1,0 +1,147 @@
+{
+  "cesp_version": "1.0",
+  "name": "raiden",
+  "display_name": "雷电将军 / Raiden Shogun",
+  "version": "1.0.0",
+  "description": "稻妻雷电将军，雷神·巴尔泽布，追求永恒的神祇，肃穆威严，言简意赅。",
+  "author": {
+    "name": "yuanshen-sound-pack",
+    "github": "yuanshen-sound-pack"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenEi_mimitomo_morning_02.wav",
+          "label": "早安",
+          "icon": "icons/raiden_00.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenEi_dialog_greetingNoon.mp3",
+          "label": "正午了",
+          "icon": "icons/raiden_01.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenEi_mimitomo_hello_02.wav",
+          "label": "你来了",
+          "icon": "icons/raiden_02.jpg"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenShogun_battle_skill1_01.wav",
+          "label": "斩！",
+          "icon": "icons/raiden_03.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_battle_skill1_02.wav",
+          "label": "雷罚",
+          "icon": "icons/raiden_04.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_battle_skill3_01.wav",
+          "label": "梦想一刀",
+          "icon": "icons/raiden_05.jpg"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenShogun_battle_skill3_02.wav",
+          "label": "一切归于永恒",
+          "icon": "icons/raiden_06.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_battle_skill3_03.wav",
+          "label": "此乃神之裁决",
+          "icon": "icons/raiden_07.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenEi_starUp_04.wav",
+          "label": "不负所望",
+          "icon": "icons/raiden_08.jpg"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenShogun_battle_hit_H_01.wav",
+          "label": "——！",
+          "icon": "icons/raiden_09.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_battle_hit_H_02.wav",
+          "label": "放肆",
+          "icon": "icons/raiden_10.jpg"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenEi_dialog_annoyed.wav",
+          "label": "心存杂念，则百事难成",
+          "icon": "icons/raiden_11.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenEi_dialog_pendant.mp3",
+          "label": "永恒之道，不可动摇",
+          "icon": "icons/raiden_12.jpg"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenShogun_life_less30_01.wav",
+          "label": "无妨",
+          "icon": "icons/raiden_13.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_life_less30_02.wav",
+          "label": "坚持",
+          "icon": "icons/raiden_14.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_life_less30_03.wav",
+          "label": "……",
+          "icon": "icons/raiden_15.jpg"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenShogun_life_less30_teammate_01.wav",
+          "label": "撤退",
+          "icon": "icons/raiden_16.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenShogun_life_less30_teammate_02.wav",
+          "label": "注意",
+          "icon": "icons/raiden_17.jpg"
+        }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        {
+          "file": "sounds/vo_raidenEi_dialog_greetingNight.mp3",
+          "label": "夜深了",
+          "icon": "icons/raiden_18.jpg"
+        },
+        {
+          "file": "sounds/vo_raidenEi_mimitomo_night_01.wav",
+          "label": "好好休息",
+          "icon": "icons/raiden_19.jpg"
+        }
+      ]
+    }
+  }
+}

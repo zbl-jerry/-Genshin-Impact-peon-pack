@@ -15,18 +15,15 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_draw_appear_01.mp3",
-          "label": "西风骑士团游击小队所属，前进测绘员米卡，向你报到！",
-          "icon": "icons/mika_00.jpg"
+          "label": "西风骑士团游击小队所属，前进测绘员米卡，向你报到！"
         },
         {
           "file": "sounds/vo_mika_dialog_greetingMorning.wav",
-          "label": "早啊，我准备了远征队常吃的早饭，说说今天的行动计划吧？",
-          "icon": "icons/mika_01.jpg"
+          "label": "早啊，我准备了远征队常吃的早饭，说说今天的行动计划吧？"
         },
         {
           "file": "sounds/vo_mika_dialog_greetingNoon.wav",
-          "label": "游击小队最爱的三号野战午餐很快就准备好",
-          "icon": "icons/mika_02.jpg"
+          "label": "游击小队最爱的三号野战午餐很快就准备好"
         }
       ]
     },
@@ -34,18 +31,15 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_battle_skill3_02.wav",
-          "label": "我负责医疗！",
-          "icon": "icons/mika_03.jpg"
+          "label": "我负责医疗！"
         },
         {
           "file": "sounds/vo_mika_battle_skill1_04.wav",
-          "label": "精确射击！",
-          "icon": "icons/mika_04.jpg"
+          "label": "精确射击！"
         },
         {
           "file": "sounds/vo_mika_battle_skill1_06.wav",
-          "label": "肃清威胁！",
-          "icon": "icons/mika_05.jpg"
+          "label": "肃清威胁！"
         }
       ]
     },
@@ -53,18 +47,15 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_chest_open_01.wav",
-          "label": "是新的收获！",
-          "icon": "icons/mika_06.jpg"
+          "label": "是新的收获！"
         },
         {
           "file": "sounds/vo_mika_chest_open_03.wav",
-          "label": "找到了宝藏，恭喜大家！",
-          "icon": "icons/mika_07.jpg"
+          "label": "找到了宝藏，恭喜大家！"
         },
         {
           "file": "sounds/vo_mika_battle_skill3_03.wav",
-          "label": "打开突破口！",
-          "icon": "icons/mika_08.jpg"
+          "label": "打开突破口！"
         }
       ]
     },
@@ -72,13 +63,11 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_life_die_03.wav",
-          "label": "完了…我搞砸了…",
-          "icon": "icons/mika_09.jpg"
+          "label": "完了…我搞砸了…"
         },
         {
           "file": "sounds/vo_mika_battle_hit_H_02.wav",
-          "label": "不能慌张…",
-          "icon": "icons/mika_10.jpg"
+          "label": "不能慌张…"
         }
       ]
     },
@@ -86,13 +75,11 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_character_idle_01.wav",
-          "label": "赶快调整好状态，不知道下个任务什么时候会来",
-          "icon": "icons/mika_11.jpg"
+          "label": "赶快调整好状态，不知道下个任务什么时候会来"
         },
         {
           "file": "sounds/vo_mika_life_less30_02.wav",
-          "label": "要改变战术吗？",
-          "icon": "icons/mika_12.jpg"
+          "label": "要改变战术吗？"
         }
       ]
     },
@@ -100,13 +87,11 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_life_less30_01.wav",
-          "label": "有点麻烦…",
-          "icon": "icons/mika_13.jpg"
+          "label": "有点麻烦…"
         },
         {
           "file": "sounds/vo_mika_life_less30_03.wav",
-          "label": "对手…很强啊",
-          "icon": "icons/mika_14.jpg"
+          "label": "对手…很强啊"
         }
       ]
     },
@@ -114,13 +99,11 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_life_less30_teammate_01.wav",
-          "label": "请后撤，我来顶住！",
-          "icon": "icons/mika_15.jpg"
+          "label": "请后撤，我来顶住！"
         },
         {
           "file": "sounds/vo_mika_battle_skill3_01.wav",
-          "label": "大家，请振作！",
-          "icon": "icons/mika_16.jpg"
+          "label": "大家，请振作！"
         }
       ]
     },
@@ -128,13 +111,11 @@
       "sounds": [
         {
           "file": "sounds/vo_mika_dialog_greetingNight.mp3",
-          "label": "如果有需要维护的装备，也请交给我吧",
-          "icon": "icons/mika_17.jpg"
+          "label": "如果有需要维护的装备，也请交给我吧"
         },
         {
           "file": "sounds/vo_mika_dialog_greetingNight2.mp3",
-          "label": "时间还早，我要整理今天的勘测记录。请你先休息吧",
-          "icon": "icons/mika_18.jpg"
+          "label": "时间还早，我要整理今天的勘测记录。请你先休息吧"
         }
       ]
     }

@@ -795,6 +795,50 @@ PACKS = [
             ],
         },
     },
+    {
+        "folder": "雷电将军",
+        "name": "raiden",
+        "display_name": "雷电将军 / Raiden Shogun",
+        "description": "稻妻雷电将军，雷神·巴尔泽布，追求永恒的神祇，肃穆威严，言简意赅。",
+        "categories": {
+            "session.start": [
+                ("vo_raidenEi_mimitomo_morning_02", "早安", None),
+                ("vo_raidenEi_dialog_greetingNoon", "正午了", None),
+                ("vo_raidenEi_mimitomo_hello_02", "你来了", None),
+            ],
+            "task.acknowledge": [
+                ("vo_raidenShogun_battle_skill1_01", "斩！", "battle"),
+                ("vo_raidenShogun_battle_skill1_02", "雷罚", "battle"),
+                ("vo_raidenShogun_battle_skill3_01", "梦想一刀", "battle"),
+            ],
+            "task.complete": [
+                ("vo_raidenShogun_battle_skill3_02", "一切归于永恒", "battle"),
+                ("vo_raidenShogun_battle_skill3_03", "此乃神之裁决", "battle"),
+                ("vo_raidenEi_starUp_04", "不负所望", None),
+            ],
+            "task.error": [
+                ("vo_raidenShogun_battle_hit_H_01", "——！", "battle"),
+                ("vo_raidenShogun_battle_hit_H_02", "放肆", "battle"),
+            ],
+            "input.required": [
+                ("vo_raidenEi_dialog_annoyed", "心存杂念，则百事难成", None),
+                ("vo_raidenEi_dialog_pendant", "永恒之道，不可动摇", None),
+            ],
+            "resource.limit": [
+                ("vo_raidenShogun_life_less30_01", "无妨", "battle"),
+                ("vo_raidenShogun_life_less30_02", "坚持", "battle"),
+                ("vo_raidenShogun_life_less30_03", "……", "battle"),
+            ],
+            "user.spam": [
+                ("vo_raidenShogun_life_less30_teammate_01", "撤退", "battle"),
+                ("vo_raidenShogun_life_less30_teammate_02", "注意", "battle"),
+            ],
+            "session.end": [
+                ("vo_raidenEi_dialog_greetingNight", "夜深了", None),
+                ("vo_raidenEi_mimitomo_night_01", "好好休息", None),
+            ],
+        },
+    },
 ]
 
 

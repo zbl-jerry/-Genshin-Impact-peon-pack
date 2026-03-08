@@ -15,18 +15,15 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_draw_appear_01.mp3",
-          "label": "你好，我是沉玉谷手工艺工会的蓝砚。想做点摆件、篮子还是花瓶？",
-          "icon": "icons/lanyan_00.jpg"
+          "label": "你好，我是沉玉谷手工艺工会的蓝砚。想做点摆件、篮子还是花瓶？"
         },
         {
           "file": "sounds/vo_lanyan_dialog_greetingMorning.wav",
-          "label": "被鸟叫吵醒了？哈哈，我去跟它们商量商量",
-          "icon": "icons/lanyan_01.jpg"
+          "label": "被鸟叫吵醒了？哈哈，我去跟它们商量商量"
         },
         {
           "file": "sounds/vo_lanyan_dialog_greetingNoon.wav",
-          "label": "采了些很新鲜的花，你也来嘛，我家里人见到你肯定高兴！",
-          "icon": "icons/lanyan_02.jpg"
+          "label": "采了些很新鲜的花，你也来嘛，我家里人见到你肯定高兴！"
         }
       ]
     },
@@ -34,18 +31,15 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_battle_skill3_01.wav",
-          "label": "搬疾运厄",
-          "icon": "icons/lanyan_03.jpg"
+          "label": "搬疾运厄"
         },
         {
           "file": "sounds/vo_lanyan_battle_skill1_04.wav",
-          "label": "翻飞",
-          "icon": "icons/lanyan_04.jpg"
+          "label": "翻飞"
         },
         {
           "file": "sounds/vo_lanyan_dialog_close.mp3",
-          "label": "坐好。朋友。握手~",
-          "icon": "icons/lanyan_05.jpg"
+          "label": "坐好。朋友。握手~"
         }
       ]
     },
@@ -53,18 +47,15 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_chest_open_02.wav",
-          "label": "好消息！你快看里面有什么？",
-          "icon": "icons/lanyan_06.jpg"
+          "label": "好消息！你快看里面有什么？"
         },
         {
           "file": "sounds/vo_lanyan_battle_skill3_02.wav",
-          "label": "玄燕传喜",
-          "icon": "icons/lanyan_07.jpg"
+          "label": "玄燕传喜"
         },
         {
           "file": "sounds/vo_lanyan_battle_skill3_03.wav",
-          "label": "漫卷翩翩",
-          "icon": "icons/lanyan_08.jpg"
+          "label": "漫卷翩翩"
         }
       ]
     },
@@ -72,13 +63,11 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_battle_hit_H_02.wav",
-          "label": "脾气真差！",
-          "icon": "icons/lanyan_09.jpg"
+          "label": "脾气真差！"
         },
         {
           "file": "sounds/vo_lanyan_life_die_03.wav",
-          "label": "飞不起来…",
-          "icon": "icons/lanyan_10.jpg"
+          "label": "飞不起来…"
         }
       ]
     },
@@ -86,13 +75,11 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_character_idle_01.wav",
-          "label": "今天的计划？听随当下的心意而动。每天都是，嘻嘻",
-          "icon": "icons/lanyan_11.jpg"
+          "label": "今天的计划？听随当下的心意而动。每天都是，嘻嘻"
         },
         {
           "file": "sounds/vo_lanyan_life_less30_02.wav",
-          "label": "有人帮忙吗？",
-          "icon": "icons/lanyan_12.jpg"
+          "label": "有人帮忙吗？"
         }
       ]
     },
@@ -100,13 +87,11 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_life_less30_03.wav",
-          "label": "难办了…",
-          "icon": "icons/lanyan_13.jpg"
+          "label": "难办了…"
         },
         {
           "file": "sounds/vo_lanyan_life_less30_01.wav",
-          "label": "给我点时间…",
-          "icon": "icons/lanyan_14.jpg"
+          "label": "给我点时间…"
         }
       ]
     },
@@ -114,13 +99,11 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_life_less30_teammate_01.wav",
-          "label": "不能硬撑了，快撤下来！",
-          "icon": "icons/lanyan_15.jpg"
+          "label": "不能硬撑了，快撤下来！"
         },
         {
           "file": "sounds/vo_lanyan_battle_hit_H_01.wav",
-          "label": "不对头！",
-          "icon": "icons/lanyan_16.jpg"
+          "label": "不对头！"
         }
       ]
     },
@@ -128,13 +111,11 @@
       "sounds": [
         {
           "file": "sounds/vo_lanyan_dialog_greetingNight2.wav",
-          "label": "我好困…先睡了先睡了，就不陪你熬夜了",
-          "icon": "icons/lanyan_17.jpg"
+          "label": "我好困…先睡了先睡了，就不陪你熬夜了"
         },
         {
           "file": "sounds/vo_lanyan_friendship_05.mp3",
-          "label": "最最重要的，是「开心」。要开心呀！我也是，你也是！",
-          "icon": "icons/lanyan_18.jpg"
+          "label": "最最重要的，是「开心」。要开心呀！我也是，你也是！"
         }
       ]
     }
